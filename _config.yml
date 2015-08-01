@@ -59,8 +59,8 @@ eventDate: "November, 2015"
 typeoutTextValues: '"", "France", "Paris", "Android"'
 typeoutFallback: "Season"
 heroButtons:
+ - {link: "#register", text: "Register now"}
  - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
-
 # About Block
 aboutTitle: "About Droidcon Paris"
 aboutBlock:
