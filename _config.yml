@@ -165,7 +165,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.paug.fr/", text: "PAUG.fr"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://bemyapp.com", text: "bemyapp.com"}
  -
   title: "Contacts"
   links:
