@@ -57,7 +57,7 @@ heroImage: "hero.jpg"
 heroTitle: "Droidcon <typeout> 2015"
 eventDate: "9-10 November, 2015"
 typeoutTextValues: '"", "France", "Paris", "Android"'
-typeoutFallback: "Season"
+typeoutFallback: "Paris"
 heroButtons:
  - {link: "#register", text: "Register now"}
  - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
@@ -165,7 +165,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.paug.fr/", text: "PAUG.fr"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://bemyapp.com", text: "bemyapp.com"}
  -
   title: "Contacts"
   links:
