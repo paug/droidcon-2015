@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Droidcon Paris 2015"
-email: "contact@paug.fr"
+email: "contact@droidcon.fr"
 description: "Droidcon Paris, the biggest Android event in France"
 baseurl: ""
 url: "http://droidcon.fr"
@@ -21,7 +21,7 @@ permalink: "/blog/:title"
 organizerName: "Paris Android User Group & BeMyApp"
 organizerAlternateName: "Paris Android User Group & BeMyApp"
 organizerDescription: ""
-organizerEmail: "contact@paug.fr"
+organizerEmail: "contact@droidcon.fr"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://paug.fr/"
 
@@ -169,7 +169,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:contact@paug.fr", text: "contact@paug.fr"}
+   - {link: "mailto:contact@droidcon.fr", text: "contact@droidcon.fr"}
  -
   title: "FAQ"
   links:
