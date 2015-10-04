@@ -40,6 +40,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
@@ -75,6 +76,9 @@ statisticBlock:
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Android content"}
  - {count: "30", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
 
 # Location Block
 # locationBlockTitle: "Location"
@@ -174,6 +178,11 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "droidconfr"
 
 # Speakers List Block
 showSessions: true
