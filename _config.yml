@@ -41,7 +41,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
 rightNavigationButtons:
