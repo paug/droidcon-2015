@@ -32,9 +32,9 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
+# Documents & Link
 c4pUrl: "http://cfp.droidcon.fr"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:contact@droidcon.fr"
 
 
 # Navigation
@@ -43,9 +43,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
+ - {link: "mailto:contact@droidcon.fr", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
+ - {link: "mailto:contact@droidcon.fr", text: "Become a sponsor"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"", "France", "Paris", "Android"'
 typeoutFallback: "Paris"
 heroButtons:
  - {link: "#register", text: "Register now"}
- - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
+ - {link: "mailto:contact@droidcon.fr", text: "Become a sponsor"}
 # About Block
 aboutTitle: "About Droidcon Paris"
 aboutBlock:
