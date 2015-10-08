@@ -1,4 +1,10 @@
-- 
+-
   group: "Gold sponsor"
   elements: 
     - {name: "Intel", description: "Intel Software developers", link: "https://software.intel.com", imageUrl: "intel.jpg"}
+-
+  group: "Media"
+  elements:
+    - {name: "Maddyness", description: "Le magazine des startups françaises", link: "http://www.maddyness.com/", imageUrl: "maddyness.jpg"}
+    - {name: "Droidsoft", description: "Tout sur Android", link: "http://droidsoft.fr/", imageUrl: "droidsoft.png"}
+    - {name: "Ère Numérique", description: "Faites le bon choix", link: "http://www.erenumerique.fr/", imageUrl: "erenumerique.png"}
