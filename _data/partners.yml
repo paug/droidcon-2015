@@ -4,6 +4,10 @@
     - {name: "Intel", description: "Intel Software developers", link: "https://software.intel.com", imageUrl: "intel.jpg"}
     - {name: "Microsoft", description: "Microsoft", link: "http://www.microsoft.com/fr-fr/", imageUrl: "microsoft.png"}
 -
+  group: "Silver sponsor"
+  elements:
+    - {name: "BlablaCar", description: "BlablaCar", link: "https://www.blablacar.fr/", imageUrl: "blablacar.png"}
+-
   group: "Media"
   elements:
     - {name: "Maddyness", description: "Maddyness, Le magazine des startups françaises", link: "http://www.maddyness.com/", imageUrl: "maddyness.jpg"}
