@@ -7,6 +7,10 @@
   group: "Silver sponsor"
   elements:
     - {name: "BlablaCar", description: "BlablaCar", link: "https://www.blablacar.fr/", imageUrl: "blablacar.png"}
+    - {name: "Xebia", description: "Xebia", link: "http://www.xebia.fr/", imageUrl: "xebia.jpg"}
+    - {name: "iD.apps", description: "iD.apps", link: "http://www.id-apps.fr/", imageUrl: "idapps.jpg"}
+    - {name: "Couchbase", description: "Couchbase", link: "http://www.couchbase.com/", imageUrl: "couchbase.png"}
+    - {name: "Octo Techno", description: "Octo Technology : There is a better way", link: "http://www.octo.com/en", imageUrl: "octo.png"}
 -
   group: "Media"
   elements:
