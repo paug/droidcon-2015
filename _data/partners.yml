@@ -3,6 +3,7 @@
   elements:
     - {name: "Intel", description: "Intel Software developers", link: "https://software.intel.com", imageUrl: "intel.jpg"}
     - {name: "Microsoft", description: "Microsoft", link: "http://www.microsoft.com/fr-fr/", imageUrl: "microsoft.png"}
+    - {name: "Genymotion", description: "Genymotion : the best Android emulator", link: "https://www.genymotion.com/#!/", imageUrl: "genymotion.png"}
 -
   group: "Silver sponsor"
   elements:
