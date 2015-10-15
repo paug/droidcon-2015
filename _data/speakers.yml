@@ -1,19 +1,16 @@
 - 
   id: 1
-  name: "Cyril"
-  surname: "Mottier"
-  company: "Capitaine Train"
-  title: "Mobile Product Devsigner & Google Developer Expert"
-  bio: "Cyril Mottier is Mobile Product Devsigner at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: “Do less, but do it insanely great”."
-  thumbnailUrl: CyrilMottier.jpg
+  name: "Svetlana"
+  surname: "Isakova"
+  company: "JetBrains"
+  title: ""
+  bio: "Svetlana is working on the Kotlin language (<a href='http://kotlinlang.org/'>http://kotlinlang.org/</a>) at JetBrains since 2011. She is one of the authors of 'Kotlin in Action' and a frequent conference speaker."
+  thumbnailUrl: SvetlanaIsakova.png
   rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
-    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
-    - {name: "github", link: "https://github.com/cyrilmottier"}
-    - {name: "site", link: "http://cyrilmottier.com"}
+    - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
+    - {name: "github", link: "https://github.com/svtk"}
+    - {name: "site", link: "http://kotlin.jetbrains.org/"}
 -
   id: 2
   name: "Corey"
@@ -30,3 +27,74 @@
     - {name: "google-plus", link: "https://plus.google.com/+CoreyLeighLatislaw"}
     - {name: "twitter", link: "https://twitter.com/corey_latislaw"}
     - {name: "github", link: "https://github.com/colabug"}
+    - {name: "site", link: "http://coreylatislaw.com/"}
+-
+  id: 3
+  name: "Volker"
+  surname: "Leck"
+  company: "Novoda"
+  title: "Senior Software Craftsman"
+  bio: "Volker is a Java veteran and an early adopter of the Android platform. He works at Novoda where he develops Android Apps of all sizes, flavours and colours."
+  thumbnailUrl: VolkerLeck.png
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+VolkerLeck"}
+    - {name: "twitter", link: "https://twitter.com/devisnik"}
+    - {name: "github", link: "https://github.com/devisnik"}
+    - {name: "site", link: "http://www.novoda.com/"}
+-
+  id: 4
+  name: "Florian"
+  surname: "Mierzejewski"
+  company: "Novoda"
+  title: "Android developer"
+  bio: "Florian is a french Android developer since 2009. He is based in Berlin and recently joined Novoda where he converts caffeine into great Android apps."
+  thumbnailUrl: FlorianMierzejewski.jpeg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FlorianMierzejewski"}
+    - {name: "twitter", link: "http://twitter.com/florianmski"}
+    - {name: "github", link: "https://github.com/florianmski"}
+    - {name: "site", link: "florianmski.fr"}
+-
+  id: 5
+  name: "Alexis"
+  surname: "Fogel"
+  company: "Dashlane"
+  title: "Co-founder & Director of Product"
+  bio: "I am Co-founder at Dashlane and running product there. I have studied business (ESCP-Europe) and computer science (Centrale Paris) and have worked on UI & UX since then while growing the Dashlane product. I have also co-founded the French Blog and Publishing company Playlist Society (<a href='www.playlistsociety.com'>www.playlistsociety.com</a>) for which I take care of development, design and UX."
+  thumbnailUrl: AlexisFogel.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+alexisfogel"}
+    - {name: "twitter", link: "https://twitter.com/alexisfogel"}
+    - {name: "site", link: "https://www.dashlane.com"}
+-
+  id: 6
+  name: "Cyril"
+  surname: "Mottier"
+  company: "Capitaine Train"
+  title: "Mobile Product Devsigner & Google Developer Expert"
+  bio: "Cyril Mottier is Mobile Product Devsigner at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: “Do less, but do it insanely great”."
+  thumbnailUrl: CyrilMottier.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
+    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
+    - {name: "github", link: "https://github.com/cyrilmottier"}
+    - {name: "site", link: "http://cyrilmottier.com"}
+-
+  id: 7
+  name: "Marc"
+  surname: "de Courville"
+  company: "Archos"
+  title: "Archos CTO"
+  bio: "Archos CTO. Archos is a company that is manufacturing Google certified phone and tablets and has a comprehensive Android based Home connected solution. Apart from purely hardware based solutions, Archos is also making Android applications such has Archos Video Player and seeds some Archos differentiating software included in all their devices such as Archos Fusion Software."
+  thumbnailUrl: MarcDeCourville.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106693526004988859571"}
