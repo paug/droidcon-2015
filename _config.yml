@@ -65,7 +65,7 @@ heroButtons:
 # About Block
 aboutTitle: "About Droidcon Paris"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Android related event in France, carefully crafted for you by the PAUG & BMA! Awesome speakers and lots of fun!" }
  - {title: "Barcamp", image: "barcamp.jpg", text: "Come with your content and share directly with the audience." }
  - {title: "Party!", image: "party.jpg", text: "Let's talk & drink." }
 
