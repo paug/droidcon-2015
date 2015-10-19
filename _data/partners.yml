@@ -12,6 +12,7 @@
     - {name: "iD.apps", description: "iD.apps", link: "http://www.id-apps.fr/", imageUrl: "idapps.jpg"}
     - {name: "Couchbase", description: "Couchbase", link: "http://www.couchbase.com/", imageUrl: "couchbase.png"}
     - {name: "Octo Techno", description: "Octo Technology : There is a better way", link: "http://www.octo.com/en", imageUrl: "octo.png"}
+    - {name: "Parrot", description: "Parrot: your DroidParty partner", link: "http://www.parrot.com/fr/", imageUrl: "parrot.png"}
 -
   group: "Media"
   elements:
