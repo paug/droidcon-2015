@@ -74,8 +74,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "600", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Android content"}
- - {count: "30", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "50", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
