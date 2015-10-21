@@ -14,6 +14,7 @@
   surname: "Fogel"
   thumbnailUrl: AF_HD.jpg
   company: "Dashlane"
+  rockstar: true
   bio: "I am Co-founder at Dashlane and running product there. I have studied business (ESCP-Europe) and computer science (Centrale Paris) and have worked on UI & UX since then while growing the Dashlane product. I have also co-founded the French Blog and Publishing company Playlist Society (www.playlistsociety.com) for which I take care of development, design and UX."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@alexisfogel'}
@@ -53,6 +54,7 @@
   surname: "Latislaw"
   thumbnailUrl: New-Headshot.jpg
   company: "Green Life Software Development"
+  rockstar: true
   bio: "Corey Leigh Latislaw (coreylatislaw.com) is a Google Developer Expert (GDE) in Android who has written several high profile Android applications at companies large and small. By day she is rebooting a large hybrid enterprise app as a native Android app. At night she authors videos and books on Android programming, runs an Android + full-stack consulting firm, and organizes the Philadelphia Google Developer Group. She is passionate about travel, local food, the outdoors, photography, and living in Philly."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@corey_latislaw'}
@@ -73,6 +75,7 @@
   surname: "Mottier"
   thumbnailUrl: 85753a6f0b1f7e49e0ed34ac9dea1335
   company: "Capitaine Train"
+  rockstar: true
   bio: "I like Android & UI/UX"
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@cyrilmottier'}
@@ -112,6 +115,7 @@
   surname: "Mierzejewski"
   thumbnailUrl: b802469678e56fdee0a95c5e7f27d460
   company: "Novoda"
+  rockstar: true
   bio: "Florian is a french Android developer since 2009. He is based in Berlin and recently joined Novoda where he converts caffeine into great Android apps."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@florianmski'}
@@ -161,6 +165,7 @@
   surname: "de Courville"
   thumbnailUrl: photo.jpg.5
   company: "Archos"
+  rockstar: true
   bio: "Archos CTO.\r\nArchos is a company that is manufacturing Google certified phone and tablets and has a comprehensive Android based Home connected solution. Apart from purely hardware based solutions, Archos is also making Android applications such has Archos Video Player and seeds some Archos differentiating software included in all their devices such as Archos Fusion Software."
   social: 
     - {name: 'site', link: 'https://plus.google.com/106693526004988859571'}
@@ -287,6 +292,7 @@
   surname: "Isakova"
   thumbnailUrl: 99f9258e-66aa-45aa-8776-c82005ef4d7c
   company: "JetBrains"
+  rockstar: true
   bio: "Svetlana is working on the Kotlin language (http://kotlinlang.org/) at JetBrains since 2011. She is one of the authors of \"Kotlin in Action\" and a frequent conference speaker."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@sveta_isakova'}
@@ -307,6 +313,7 @@
   surname: "Leck"
   thumbnailUrl: volker_small_square_0.png
   company: "Novoda"
+  rockstar: true
   bio: "Volker is a Java veteran and an early adopter of the Android platform. He works at Novoda where he develops Android Apps of all sizes, flavours and colours."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@devisnik'}
