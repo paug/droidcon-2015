@@ -1,100 +1,324 @@
+
 - 
-  id: 1
-  name: "Svetlana"
-  surname: "Isakova"
-  company: "JetBrains"
-  title: ""
-  bio: "Svetlana is working on the Kotlin language (<a href='http://kotlinlang.org/'>http://kotlinlang.org/</a>) at JetBrains since 2011. She is one of the authors of 'Kotlin in Action' and a frequent conference speaker."
-  thumbnailUrl: SvetlanaIsakova.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
-    - {name: "github", link: "https://github.com/svtk"}
-    - {name: "site", link: "http://kotlin.jetbrains.org/"}
--
-  id: 2
-  name: "Corey"
-  surname: "Latislaw"
-  company: "Green Life Software Development"
-  title: "Android and web developer & Google Developer Expert"
-  bio: "Corey Leigh Latislaw (coreylatislaw.com) is a Google Developer Expert (GDE) in Android who has written several high profile Android applications at companies large and small. By day she is rebooting a large hybrid enterprise app as a native Android app. At night she authors videos and books on Android programming, runs an Android + full-stack consulting firm, and organizes the Philadelphia Google Developer Group. She is passionate about travel, local food, the outdoors, photography, and living in Philly."
-  thumbnailUrl: CoreyLatislaw.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114727657292466806804/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+CoreyLeighLatislaw"}
-    - {name: "twitter", link: "https://twitter.com/corey_latislaw"}
-    - {name: "github", link: "https://github.com/colabug"}
-    - {name: "site", link: "http://coreylatislaw.com/"}
--
-  id: 3
-  name: "Volker"
-  surname: "Leck"
-  company: "Novoda"
-  title: "Senior Software Craftsman"
-  bio: "Volker is a Java veteran and an early adopter of the Android platform. He works at Novoda where he develops Android Apps of all sizes, flavours and colours."
-  thumbnailUrl: VolkerLeck.png
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+VolkerLeck"}
-    - {name: "twitter", link: "https://twitter.com/devisnik"}
-    - {name: "github", link: "https://github.com/devisnik"}
-    - {name: "site", link: "http://www.novoda.com/"}
--
-  id: 4
-  name: "Florian"
-  surname: "Mierzejewski"
-  company: "Novoda"
-  title: "Android developer"
-  bio: "Florian is a french Android developer since 2009. He is based in Berlin and recently joined Novoda where he converts caffeine into great Android apps."
-  thumbnailUrl: FlorianMierzejewski.jpeg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+FlorianMierzejewski"}
-    - {name: "twitter", link: "http://twitter.com/florianmski"}
-    - {name: "github", link: "https://github.com/florianmski"}
-    - {name: "site", link: "florianmski.fr"}
--
-  id: 5
+  id: 52002
+  name: "Brian Egan /"
+  surname: "Guillaume Lung"
+  thumbnailUrl: 594d64dd5d350f303f7bbce4c86d7312
+  company: "SoundCloud"
+  bio: "In the past months Brian and Guillaume got the chance to pair together at SoundCloud on an Android project. Brian comes originally from the web development and pairing together on Android led to unexpected but interesting side discussions. "
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@lungos @brianegan'}
+- 
+  id: 28051
   name: "Alexis"
   surname: "Fogel"
+  thumbnailUrl: AF_HD.jpg
   company: "Dashlane"
-  title: "Co-founder & Director of Product"
-  bio: "I am Co-founder at Dashlane and running product there. I have studied business (ESCP-Europe) and computer science (Centrale Paris) and have worked on UI & UX since then while growing the Dashlane product. I have also co-founded the French Blog and Publishing company Playlist Society (<a href='http://www.playlistsociety.com'>www.playlistsociety.com</a>) for which I take care of development, design and UX."
-  thumbnailUrl: AlexisFogel.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+alexisfogel"}
-    - {name: "twitter", link: "https://twitter.com/alexisfogel"}
-    - {name: "site", link: "https://www.dashlane.com"}
--
-  id: 6
+  bio: "I am Co-founder at Dashlane and running product there. I have studied business (ESCP-Europe) and computer science (Centrale Paris) and have worked on UI & UX since then while growing the Dashlane product. I have also co-founded the French Blog and Publishing company Playlist Society (www.playlistsociety.com) for which I take care of development, design and UX."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@alexisfogel'}
+    - {name: 'site', link: 'https://www.dashlane.com'}
+- 
+  id: 93129
+  name: "Alizée"
+  surname: "Penel"
+  thumbnailUrl: photoalizee.png
+  company: "Genymobile"
+  bio: "Alizée is a (embedded) system developer at Genymobile, a startup offering companies its Android expertise through a range of application and system services and innovative solutions. She works on virtualization problematics, graphics stack on Linux and Android ROM cooking. She also teaches courses on Android system at EPITA to the future engineers specializing in embedded systems. "
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@kynzie___'}
+    - {name: 'site', link: 'www.genymobile.com'}
+- 
+  id: 29788
+  name: "Alexis"
+  surname: "Rosovsky"
+  thumbnailUrl: AAEAAQAAAAAAAAP_AAAAJDFkYmI1ZDliLTEwZDQtNDVjMS1iYTI3LTY1NzA4OGJmYmY0Zg.jpg
+  company: "Genymobile"
+  bio: "Alexis is an Android platform developer at Genymobile. He is used to work on Android porting issues, such as HAL development and framework fixes."
+  social: 
+    - {name: 'site', link: 'https://plus.google.com/103101983670154301873'}
+- 
+  id: 45915
+  name: "Bill"
+  surname: "Phillips"
+  thumbnailUrl: bc7c0704a8de23220efc62e1029dba97
+  company: "Big Nerd Ranch"
+  bio: "Bill Phillips is a Fellow at Big Nerd Ranch. Under this title he is allowed to help develop course material, write Android code, evangelize teaching philosophy, teach, write blog posts, get to know people in the Android community, and who knows what else. He is coauthor of the bestselling Big Nerd Ranch Guide To Android Programming, an introductory Android text, as well as the materials for Big Nerd Ranch's Android Bootcamp."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@billjings'}
+    - {name: 'site', link: 'https://www.bignerdranch.com/blog/'}
+- 
+  id: 92512
+  name: "Corey"
+  surname: "Latislaw"
+  thumbnailUrl: New-Headshot.jpg
+  company: "Green Life Software Development"
+  bio: "Corey Leigh Latislaw (coreylatislaw.com) is a Google Developer Expert (GDE) in Android who has written several high profile Android applications at companies large and small. By day she is rebooting a large hybrid enterprise app as a native Android app. At night she authors videos and books on Android programming, runs an Android + full-stack consulting firm, and organizes the Philadelphia Google Developer Group. She is passionate about travel, local food, the outdoors, photography, and living in Philly."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@corey_latislaw'}
+    - {name: 'site', link: 'http://www.coreylatislaw.com'}
+- 
+  id: 24812
+  name: "Damien"
+  surname: "Cavaillès"
+  thumbnailUrl: photo.jpg
+  company: "Tripndrive"
+  bio: "Je suis passionné par la mobilité et ses nouveaux usages et en particulier l'interaction avec les objets connectés.\r\nJe suis également organisateur du Startup Weekend Lille \"Maker Edition\" et Facilitateur Startup Weekend.\r\n=D"
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@thedamfr'}
+    - {name: 'site', link: 'https://plus.google.com/+DamienCavailles'}
+- 
+  id: 93192
   name: "Cyril"
   surname: "Mottier"
+  thumbnailUrl: 85753a6f0b1f7e49e0ed34ac9dea1335
   company: "Capitaine Train"
-  title: "Mobile Product Devsigner & Google Developer Expert"
-  bio: "Cyril Mottier is Mobile Product Devsigner at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: “Do less, but do it insanely great”."
-  thumbnailUrl: CyrilMottier.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
-    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
-    - {name: "github", link: "https://github.com/cyrilmottier"}
-    - {name: "site", link: "http://cyrilmottier.com"}
--
-  id: 7
+  bio: "I like Android & UI/UX"
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@cyrilmottier'}
+    - {name: 'site', link: 'http://cyrilmottier.com'}
+- 
+  id: 40048
+  name: "Etienne"
+  surname: "Margraff"
+  thumbnailUrl: photo.jpg.1
+  company: null
+  bio: "Evangéliste développeur chez Microsoft France, Etienne fait du développement dans l'univers des technologies Microsoft depuis plusieurs années. Geek passionné par la techno, Etienne joue entre autre avec HTML5, Javascript, CSS, Visual Studio, Cordova et la mobilité en général. Il touche un peu à la 3D avec une contribution modeste sur BabylonJS (www.babylonjs.com). \r\nIl est co-créateur de l’outil open-source Vorlon.js (http://www.vorlonjs.io), un outil cross-plateforme pour débugger le web.\r\nIl est speaker dans de nombreux événements tels que les TechDays, DroidCon, meetups, Kiwi Party, etc.\r\nVous pouvez le retrouver sur son blog : http://blogs.msdn.com/b/emargraff et sur twitter : http://www.twitter.com/meulta.\r\n"
+  social: 
+    - {name: 'site', link: 'https://plus.google.com/+EtienneMargraff'}
+- 
+  id: 56760
+  name: "Etienne"
+  surname: "Caron"
+  thumbnailUrl: photo.jpg.2
+  company: "Intel Security"
+  bio: "Etienne has been an active member of the Montreal Android community since 2010. As part of the Montreal Android GDG, he organises meetups, hackathons and codelabs. As part of the Google Developer Expert program, he also devotes time towards mentoring startups and developers new to Android.\r\n\r\nHe got his start in programming in the mid-'80s obsessing over C64 demos, and went on to organize the NAID 95/96 demoparties. 3D animation, procedural content generation and VR are some of his hobbies, and he loves to introduce other developers to this fascinating field.\r\n\r\nHe's the Android technical team lead for TrueKey from Intel Security. He lives in Montreal with his wonderful wife and daughter, and speaks French and English fluently."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/kanawish'}
+    - {name: 'site', link: 'https://plus.google.com/+EtienneCaron'}
+- 
+  id: 54886
+  name: "Eyal"
+  surname: "LEZMY"
+  thumbnailUrl: photo.jpg.3
+  company: "Genymobile"
+  bio: "Eyal is a software engineer at Genymobile, working on Genymotion – an Android emulator. He's been working with Android since 2009.\r\n\r\nHe's also Treasurer at the Paris Android User Group and a Google Developer Expert in Android.\r\n\r\nOver the years, Eyal has been involved in several R&D projects with the French internet providers; worked for Samsung's Android B2B team; and built an Android set-top box for a hotel chain."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/Eyal_Lezmy'}
+    - {name: 'site', link: 'https://plus.google.com/+EyalLEZMY'}
+- 
+  id: 99221
+  name: "Florian"
+  surname: "Mierzejewski"
+  thumbnailUrl: b802469678e56fdee0a95c5e7f27d460
+  company: "Novoda"
+  bio: "Florian is a french Android developer since 2009. He is based in Berlin and recently joined Novoda where he converts caffeine into great Android apps."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@florianmski'}
+    - {name: 'site', link: 'http://novoda.com/'}
+- 
+  id: 62738
+  name: "François"
+  surname: "Blavoet"
+  thumbnailUrl: photo.jpg.4
+  company: "Deezer"
+  bio: "Software engineer at Deezer"
+  social: 
+    - {name: 'site', link: 'https://plus.google.com/+FrançoisBlavoet'}
+- 
+  id: 55337
+  name: "GUILLAUME"
+  surname: "BERNARD"
+  thumbnailUrl: 8acd7219295f70b6750e8532218a78ec.jpg
+  company: "Koridev"
+  bio: "Guillaume, développeur Android depuis plus de 3 ans et Freelance depuis peu."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@Koridev_fr'}
+    - {name: 'site', link: 'http://www.koridev.fr'}
+- 
+  id: 7237
+  name: "Jérémie"
+  surname: "Martinez"
+  thumbnailUrl: me.jpg
+  company: "Xebia"
+  bio: "Jeremie est développeur Android depuis plus de 4 ans et travaille en tant que consultant chez Xebia. Passionné par le développement mobile, il est un fervant adepte des bonnes pratiques et des principes du Software Craftsmanship.\r\n"
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@jeremmartinez'}
+    - {name: 'site', link: 'http://blog.xebia.fr/author/jeremie-martinez/'}
+- 
+  id: 656
+  name: "Madis"
+  surname: "Pink"
+  thumbnailUrl: b5b43736709fb47edc3ee649618d84f7
+  company: "ZeroTurnaround"
+  bio: "Madis is currently working on JRebel for Android at ZeroTurnaround.\r\nHe started hacking on Android apps on a T-Mobile G1 more than 6 years ago\r\nand quickly grew a particular interest in build systems and developer tooling.\r\n\r\nHis previous experience includes working on the Android Platform team at Spotify\r\nand producing multiple apps at Mobi Lab. During his free time he likes to dabble\r\naround with guitars and home recording."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@madisp'}
+    - {name: 'site', link: 'https://zeroturnaround.com/software/jrebel-for-android/'}
+- 
+  id: 89927
   name: "Marc"
   surname: "de Courville"
+  thumbnailUrl: photo.jpg.5
   company: "Archos"
-  title: "Archos CTO"
-  bio: "Archos CTO. Archos is a company that is manufacturing Google certified phone and tablets and has a comprehensive Android based Home connected solution. Apart from purely hardware based solutions, Archos is also making Android applications such has Archos Video Player and seeds some Archos differentiating software included in all their devices such as Archos Fusion Software."
-  thumbnailUrl: MarcDeCourville.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/106693526004988859571"}
+  bio: "Archos CTO.\r\nArchos is a company that is manufacturing Google certified phone and tablets and has a comprehensive Android based Home connected solution. Apart from purely hardware based solutions, Archos is also making Android applications such has Archos Video Player and seeds some Archos differentiating software included in all their devices such as Archos Fusion Software."
+  social: 
+    - {name: 'site', link: 'https://plus.google.com/106693526004988859571'}
+- 
+  id: 54657
+  name: "Mark"
+  surname: "Scheel"
+  thumbnailUrl: e552215dd726801c644470feae8bb41c
+  company: "Digital Construction"
+  bio: "Mark lives in Colorado, USA where he works on a consumer medical application with over 6 million Play Store downloads.  He wrote a book on Google Glass software development, likes open source contributions and snowboarding, and enjoys speaking around the world about Google technology.  "
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@5280mark'}
+    - {name: 'site', link: 'http://www.digitalconstruction.com'}
+- 
+  id: 31851
+  name: "Mathieu"
+  surname: "Calba"
+  thumbnailUrl: photo.jpg.6
+  company: "Captain Train"
+  bio: "Mathieu is a Mobile Software Developer at Captain Train, and GDG leader at Lyon with the Lyon Android User Group. Mathieu is fond of new technologies, and particularly with Android. He loves to create applications that integrate seamlessly with the system and spread his love for Android by giving some talks."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@Mathieu_Calba'}
+    - {name: 'site', link: 'https://plus.google.com/+MathieuCalba'}
+- 
+  id: 9191
+  name: "Mounir"
+  surname: "BOUDRAA"
+  thumbnailUrl: e139aa7ae2b6c738a42bc6f0303df361
+  company: "snips"
+  bio: "Mounir Boudraa is a software engineer passionate about code craftsmanship.\r\nHe worked at Xebia as a mobile engineer, Android trainer and recruiter.  He is now making technology disappear at snips since 4 monthes"
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@_mboudraa'}
+    - {name: 'site', link: 'https://plus.google.com/101079866497704610685'}
+- 
+  id: 96689
+  name: "Nabil"
+  surname: "Hachicha"
+  thumbnailUrl: 8ec22ebc6cddbfbe097a580b8d685f75
+  company: "Realm"
+  bio: "Nabil is an avid Android fan who enjoys speaking at community-oriented conferences like Droidcon & GDG. His work as the developer behind SnappyDB helped him hone his open source development skills. He previously worked on apps in France & UK for companies like Renault, Bouygues-Telecom, Michelin, NewsUK, Unilever, and Go-Ahead. Currently, Nabil is an Android developer at Realm, replacement for SQLite & Core Data."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@nabil_hachicha'}
+    - {name: 'site', link: 'http://realm.io'}
+- 
+  id: 3900
+  name: "Pierre"
+  surname: "Benayoun"
+  thumbnailUrl: 5e5dd32f5540646a77252f90a5650952
+  company: "Le cabinet numérique"
+  bio: "Développeur Android depuis 2011, je travaille actuellement sur deux projets d'Activity Tracking : Fit Plus et le projet KiloMeter. \r\n\r\n"
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@Pierre_Benayoun'}
+    - {name: 'site', link: 'http://www.frandroid.com/blogs/vmvdd/'}
+- 
+  id: 60848
+  name: "Pierre"
+  surname: "Crépieux"
+  thumbnailUrl: db950a4adf54b7a13cd3c70fdcd7e334
+  company: "Orange"
+  bio: "Après plusieurs années passées du coté des infrastructures réseau (Réseau Intelligent, H.323, IMS), je suis aujourd'hui développeur senior sur Android. Mon sujet de prédilection du moment: l’impact que peuvent avoir les applications sur le terminal mobile et le réseau.\r\nhttps://www.linkedin.com/in/pcrepieux"
+  social: []
+- 
+  id: 3632
+  name: "Pierre-Olivier"
+  surname: "Dybman"
+  thumbnailUrl: tumblr_inline_naj6huWLqb1sa6hof.jpg
+  company: "Sidereo"
+  bio: "I am the Mario Kart undisputed champion of the company.\r\nMy motto: Do one thing but do it well\r\n\r\nMy favorite movie: Johnny Mnemonic\r\nBecause information matters."
+  social: 
+    - {name: 'site', link: 'https://plus.google.com/113008087135852546098'}
+- 
+  id: 86297
+  name: "Quentin"
+  surname: "Sallat"
+  thumbnailUrl: BnzgLRW.jpg
+  company: "iD.apps"
+  bio: "I'm Android developer at iD.apps. I've been passionate about mobile development for several years, and I love to create smart and user-centric apps, focusing on user experience and little design details."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@Aerilys'}
+    - {name: 'site', link: 'blog.aerilys.fr'}
+- 
+  id: 46332
+  name: "Ran"
+  surname: "Nachmany"
+  thumbnailUrl: photo.jpg.7
+  company: "Google"
+  bio: "Google Dev Rel by day and sw poet by night. Ran compiled his first program when he was 8y/o and has been moving bits since. "
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@shed2k'}
+    - {name: 'site', link: 'developers.android.com'}
+- 
+  id: 27801
+  name: "Ron"
+  surname: "Munitz"
+  thumbnailUrl: ac3bc024116d41a21bcb99be7b2c4954.png
+  company: "The PSCG"
+  bio: "Ron is a serial entrepreneur and a software development consultant, with long history developing performance and safety critical software, leading development groups, training application and platform developers, and helping companies in the process of board bring-ups, design and execution of embedded systems products, security best practices and product start-up. He specializes in all aspects of distributed systems, Linux and Android internals, a member of the Android-X86 project and the the designer and original developer of the first Android Remote Display Protocol, as the Founder and CTO of Nubo, the first Remote Android Workspace for the Enterprise. Ron frequently passes on his knowledge on the world's leading  conferences."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/ronubo'}
+    - {name: 'site', link: 'thepscg.com , ronubo.blogspot.com'}
+- 
+  id: 54742
+  name: "Romain"
+  surname: "Piel"
+  thumbnailUrl: photo.jpg.8
+  company: "Songkick"
+  bio: "Romain is a passionate Android developer who has been building apps since Android Froyo. He is currently working for Songkick as a happy Android developer. In the past he worked for Microsoft as well as building useless/fun apps with GIFs and animations."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@_rpiel'}
+    - {name: 'site', link: 'https://plus.google.com/+RomainPiel'}
+- 
+  id: 1690
+  name: "Stan"
+  surname: "Kocken"
+  thumbnailUrl: photo.jpg.9
+  company: "Freelance"
+  bio: "Android developer since 2010. I had the chance to work to be the lead developer on many projects such as Eurostar, Crédit Agricole, La Chaine Météo Marine or Dailymotion while I was working at Backelite until the end of 2012. This experience helped to join PrePlay until this summer, an American startup building a predictive game for American sport with the official support of the NHL (hockey) and the MLB (baseball). I'm now a freelance working into a famous dating website who want to improve his visibility on mobile."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@stan_kocken'}
+    - {name: 'site', link: 'https://plus.google.com/+StanKOCKEN'}
+- 
+  id: 37805
+  name: "Svetlana"
+  surname: "Isakova"
+  thumbnailUrl: 99f9258e-66aa-45aa-8776-c82005ef4d7c
+  company: "JetBrains"
+  bio: "Svetlana is working on the Kotlin language (http://kotlinlang.org/) at JetBrains since 2011. She is one of the authors of \"Kotlin in Action\" and a frequent conference speaker."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@sveta_isakova'}
+    - {name: 'site', link: 'http://kotlin.jetbrains.org/'}
+- 
+  id: 46632
+  name: "Turhan"
+  surname: "Oz"
+  thumbnailUrl: ky0MYY5V.jpg
+  company: "Socosmoz"
+  bio: "Entrepreneur et développeur dans la région parisienne. Passionné par Android. Membre actif du Paug"
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@turhanoz'}
+    - {name: 'site', link: 'turhanoz.com'}
+- 
+  id: 31973
+  name: "Volker"
+  surname: "Leck"
+  thumbnailUrl: volker_small_square_0.png
+  company: "Novoda"
+  bio: "Volker is a Java veteran and an early adopter of the Android platform. He works at Novoda where he develops Android Apps of all sizes, flavours and colours."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@devisnik'}
+    - {name: 'site', link: 'http://www.novoda.com'}
+- 
+  id: 22378
+  name: "Xavier"
+  surname: "Hallade"
+  thumbnailUrl: photo.jpg.10
+  company: "Intel"
+  bio: "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies.\r\nHe's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@ph0b'}
+    - {name: 'site', link: 'https://plus.google.com/+XavierHallade'}
+
