@@ -14,11 +14,12 @@
   surname: "Fogel"
   thumbnailUrl: AF_HD.jpg
   company: "Dashlane"
-  rockstar: true
   bio: "I am Co-founder at Dashlane and running product there. I have studied business (ESCP-Europe) and computer science (Centrale Paris) and have worked on UI & UX since then while growing the Dashlane product. I have also co-founded the French Blog and Publishing company Playlist Society (www.playlistsociety.com) for which I take care of development, design and UX."
-  social: 
-    - {name: 'twitter', link: 'https://twitter.com/@alexisfogel'}
-    - {name: 'site', link: 'https://www.dashlane.com'}
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+alexisfogel"}
+    - {name: "twitter", link: "https://twitter.com/alexisfogel"}
+    - {name: "site", link: "https://www.dashlane.com"}
 - 
   id: 93129
   name: "Alizée"
@@ -54,11 +55,16 @@
   surname: "Latislaw"
   thumbnailUrl: New-Headshot.jpg
   company: "Green Life Software Development"
-  rockstar: true
   bio: "Corey Leigh Latislaw (coreylatislaw.com) is a Google Developer Expert (GDE) in Android who has written several high profile Android applications at companies large and small. By day she is rebooting a large hybrid enterprise app as a native Android app. At night she authors videos and books on Android programming, runs an Android + full-stack consulting firm, and organizes the Philadelphia Google Developer Group. She is passionate about travel, local food, the outdoors, photography, and living in Philly."
-  social: 
-    - {name: 'twitter', link: 'https://twitter.com/@corey_latislaw'}
-    - {name: 'site', link: 'http://www.coreylatislaw.com'}
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114727657292466806804/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+CoreyLeighLatislaw"}
+    - {name: "twitter", link: "https://twitter.com/corey_latislaw"}
+    - {name: "github", link: "https://github.com/colabug"}
+    - {name: "site", link: "http://coreylatislaw.com/"}
 - 
   id: 24812
   name: "Damien"
@@ -75,11 +81,15 @@
   surname: "Mottier"
   thumbnailUrl: 85753a6f0b1f7e49e0ed34ac9dea1335
   company: "Capitaine Train"
-  rockstar: true
   bio: "I like Android & UI/UX"
-  social: 
-    - {name: 'twitter', link: 'https://twitter.com/@cyrilmottier'}
-    - {name: 'site', link: 'http://cyrilmottier.com'}
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
+    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
+    - {name: "github", link: "https://github.com/cyrilmottier"}
+    - {name: "site", link: "http://cyrilmottier.com"}
 - 
   id: 40048
   name: "Etienne"
@@ -115,11 +125,15 @@
   surname: "Mierzejewski"
   thumbnailUrl: b802469678e56fdee0a95c5e7f27d460
   company: "Novoda"
-  rockstar: true
   bio: "Florian is a french Android developer since 2009. He is based in Berlin and recently joined Novoda where he converts caffeine into great Android apps."
-  social: 
-    - {name: 'twitter', link: 'https://twitter.com/@florianmski'}
-    - {name: 'site', link: 'http://novoda.com/'}
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FlorianMierzejewski"}
+    - {name: "twitter", link: "http://twitter.com/florianmski"}
+    - {name: "github", link: "https://github.com/florianmski"}
+    - {name: "site", link: "florianmski.fr"}
 - 
   id: 62738
   name: "François"
@@ -165,10 +179,10 @@
   surname: "de Courville"
   thumbnailUrl: photo.jpg.5
   company: "Archos"
-  rockstar: true
   bio: "Archos CTO.\r\nArchos is a company that is manufacturing Google certified phone and tablets and has a comprehensive Android based Home connected solution. Apart from purely hardware based solutions, Archos is also making Android applications such has Archos Video Player and seeds some Archos differentiating software included in all their devices such as Archos Fusion Software."
-  social: 
-    - {name: 'site', link: 'https://plus.google.com/106693526004988859571'}
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106693526004988859571"}
 - 
   id: 54657
   name: "Mark"
@@ -292,11 +306,12 @@
   surname: "Isakova"
   thumbnailUrl: 99f9258e-66aa-45aa-8776-c82005ef4d7c
   company: "JetBrains"
-  rockstar: true
   bio: "Svetlana is working on the Kotlin language (http://kotlinlang.org/) at JetBrains since 2011. She is one of the authors of \"Kotlin in Action\" and a frequent conference speaker."
-  social: 
-    - {name: 'twitter', link: 'https://twitter.com/@sveta_isakova'}
-    - {name: 'site', link: 'http://kotlin.jetbrains.org/'}
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
+    - {name: "github", link: "https://github.com/svtk"}
+    - {name: "site", link: "http://kotlin.jetbrains.org/"}
 - 
   id: 46632
   name: "Turhan"
@@ -313,11 +328,13 @@
   surname: "Leck"
   thumbnailUrl: volker_small_square_0.png
   company: "Novoda"
-  rockstar: true
   bio: "Volker is a Java veteran and an early adopter of the Android platform. He works at Novoda where he develops Android Apps of all sizes, flavours and colours."
-  social: 
-    - {name: 'twitter', link: 'https://twitter.com/@devisnik'}
-    - {name: 'site', link: 'http://www.novoda.com'}
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+VolkerLeck"}
+    - {name: "twitter", link: "https://twitter.com/devisnik"}
+    - {name: "github", link: "https://github.com/devisnik"}
+    - {name: "site", link: "http://www.novoda.com/"}
 - 
   id: 22378
   name: "Xavier"
