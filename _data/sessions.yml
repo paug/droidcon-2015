@@ -1,59 +1,225 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [0, 0]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  id: 1
+  title: "Kotlin on Android"
+  description: "<p>Développement Android<br />Apple has introduced “a better language” for iOS developers. But what options do we have for Android? Surely Kotlin should be under consideration! Android Studio is now based on Intellij Idea, the “native” environment for Kotlin.<br /><br />Kotlin is a modern language for industry. It can help you reduce the amount of code you write for Android applications and at the same time make it readable and more maintainable.<br /><br />In this session we are going to talk a bit why JetBrains sees the potential in Kotlin comparing to other JVM languages. Then we’ll see how certain language constructs can be used to make Android more enjoyable. Also we’ll look at a DSL for type-safe dynamic layouts and a simple extension plugin that helps to avoid writing ‘findViewById()’ all the time.</p>"
   subtype: presentation
-  speakers: [0, 0]
+  speakers: [37805]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  id: 2
+  title: "Android Katas"
+  description: "<p>Développement Android<br/>In TDD, tests lead our implementation. We start by writing a failing test and then code to make the test pass. Once we have a passing test, then we are free to refactor the system with high confidence that we didn't break other things. We continue this process until the feature is finished.<br /><br />The best way to practice test driven development (TDD) is through katas (http://en.wikipedia.org/wiki/Kata_(programming)). These are small programs or exercises that you complete over and over again to build testing muscle memory and improve the speed that we write applications.<br /><br />By the end of this workshop, you will be comfortable with the major types of tests that you will encounter in your day to day coding with Robolectric as well as the best testing practices.<br /><br />Only through practice will you become comfortable and find your programming flow!</p>"
   subtype: presentation
-  speakers: [0]
+  speakers: [92512]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [0]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [0]
+  id: 3
+  title: "Level up your Android Build"
+  description: "<p>Développement Android<br />With the release of the new Gradle-based Build System, Android finally has a flexible and highly customizable build toolchain that allows for tweaks at all stages of development, from code generation to deployment on the Google Play Store.<br /><br />We assume that by now the community is familiar with the basic capabilities of the Android build tool. This talk aims to provide some more advanced tricks and techniques of how to extend and customize your build employing the wide and growing range of Gradle plugins.</p>"
+  subtype: presentation
+  speakers: [31973, 99221]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 4
+  title: "Improve your app metrics in weeks with Play Store Experiments"
+  description: "<p>UX/UI<br />This talk presents the new 'experiments' feature of the Play Store and how to make to most of it. The presentation includes an explanation of how using experiments can have a very high return on investment compared to in-app testing, and gives tips and feedback based on our own experience with the Experiments tool. We will cover what worked and what did not work, as well as common mistakes to avoid. We will also explain how to extend learning from the experiments to other part of the business.</p>"
+  subtype: presentation
+  speakers: [28051]
+  language: en
+-
+  id: 5
+  title: "Advanced Scrolling Techniques on Android"
+  description: "<p>Développement Android<br />Scrolling is one of the most important gesture on mobile platforms. Indeed, it easily allows users to access a fairly large amount of content just by swiping their fingers on screen. In order to implement such gestures, the Android SDK comes with a bunch of scrolling containers: View, ListView, RecyclerView, ScrollView, etc. While using these components independently is relatively simple it starts getting complicated when nesting them… In this session we will go though a complete overview how Android deals with scrolling in general and how to master the scrolling mechanism to create compelling mobile user experience.</p>"
+  subtype: presentation
+  speakers: [93192]
+  language: fr
+-
+  id: 6
+  title: "Advanced techniques for concurrency & memory management"
+  description: "<p>Développement Android<br />Managing memory & concurrency are one of the biggest challenges we face when it comes to writing testable & efficient apps. Based on the experience of building Realm database, We'll dig into some patterns & tricks used to control memory footprint & multithreading.<br /><br />Some of the topics this talks will cover are:<ul><li>How to use the Java Reference API (WeakReference & ReferenceQueue) to work with the GC</li><li>Writing tests involving the GC</li><li>Working & testing code using the Handler/Looper api</li><li>Alternative asynchronous models (Messenger/ResultReceiver)</li><li>Threadpool customisation & pitfalls</li><li>Handler (mocking & testing, using IdleHandler)</li><ul></p>"
+  subtype: presentation
+  speakers: [96689]
+  language: en
+-
+  id: 7
+  title: "Comment développer une app en moins d'1h et en moins de 200 ligne avec Kotlin"
+  description: "<p>Développement Android<br />Dans ce talk nous verrons comment développer une application de geolocalisation en affichant les points d'interets autour de notre trajectoire, en temps réeel, en moins de 200 lignes et en 45 minutes grâce à Kotlin.</p>"
+  subtype: presentation
+  speakers: [9191]
+  language: fr
+-
+  id: 8
+  title: "Task & Document API"
+  description: "<p>Développement Android<br />Tasks are the plumbing of Android apps: you use them every day when developing. But the Task API in Android is one of the most difficult API to apprehend. The behaviour fragmentation between the Android versions does not help us either: taskAffinity, launchMode, flags, etc. In addition to the Task API, Android 5.0 introduced the Document Task API. This new feature is a big upheaval on how we manage tasks as Android developers and users.<br /><br />In this presentation, we will have an in depth look at these APIs. We will see how to use them in typical use cases: an application with some restricted content to user connected with account but not all, an application with multiple documents opened in parallel, etc.</p>"
+  subtype: presentation
+  speakers: [31851]
+  language: en
+-
+  id: 9
+  title: "Eddystone™, the open beacon format from Google"
+  description: "<p>Android Everywhere<br />Back mid july 2015, Google has announced Eddystone, an open BLE beacon format. In this session, we'll cover how to develop with beacons. We'll dive into the core of the protocol format as well as the higher APIs (i.e Nearby API and the Proximity Beacon API) for better semantic context and higher location.</p>"
+  subtype: presentation
+  speakers: [46632]
+  language: en
+-
+  id: 10
+  title: "Let's Play! Build your first Cardboard App"
+  description: "<p>Développement Android<br />When I started making a Cardboard App, I had a lot to learn. I didn't know much about OpenGL, things kept breaking when I changed little details... it was painful.<br /><br />Not being a very sensible person, I kept going, and I'd like to share with you some of the things I found out:<br /><br /><ul><li>OpenGL: How to use as little of it as possible.</li><li>Fill the scene: How to programatically create and design fun and simple 3D models.</li><li>Shaders: Math is fun, or, How to impress your friends with parallel processing.</li><li>Avoiding Death by Build: Use scripting and live shader editing to get instant feedback.</li><li>Look Ma, no Hands: Solving the VR input problem with Android Wear.</li></ul></p>"
+  subtype: presentation
+  speakers: [56760]
+  language: en
+-
+  id: 11
+  title: "Comment j'ai retrouvé un code d'athlète avec Google Fit API"
+  description: "<p>Développement Android<br />Google Fit est une API qui vous permet de jouer avec les données liées à vos activités.<br /><br />En théorie elle vous permet de créer des statistiques sur le nombre de pas, jouer avec les calories calculées et même trouver le nombre record de tours de pédales par minutes en vélo effectuées par un utilisateur.<br /><br />Mais qu'en est-il en pratique ?<br /><br />Google Fit récupère-t-il bien les données ?<br /><br />Est-il facile de les manipuler ?<br /><br />Qu'est-ce qui intéresse vraiment les utilisateurs ?<br /><br />En s'appuyant sur son expérience avec son application Fit Plus, Pierre Benayoun échangera avec vous sur le sujet.</p>"
+  subtype: presentation
+  speakers: [3900]
+  language: fr
+-
+  id: 12
+  title: "Striptease of The Android Permissions System"
+  description: "<p>Développement Android<br />In the current context where customers are more sensible about protecting their privacy, our duty as developers is to consider security in our developments.<br /><br />Google did understand this global problematic and provides in Android OS different kinds of security systems : selinux, permissions system, etc.<br /><br />Throughout this talk, we are going to present how the Android permission system is implemented, all the way from the kernel to the application layer.<br /><br />How Android low layers use the concepts of the Linux kernel users and groups in order to provide its own permission system? What is the communication flow in the framework when an access to a specific device is asked by an Android application?</p>"
+  subtype: presentation
+  speakers: [93129, 29788]
+  language: en
+-
+  id: 13
+  title: "Mettre à jour un device Android, ok mais comment ça marche ? Les secrets de l'OTA"
+  description: "<p>Android Everywhere<br />Constructeur, opérateur, grosse entreprise avec une flotte d'objets connectés ou tout simplement curieux, Pierre-Olivier soulève le capot et vous explique comment une OTA fonctionne de A à Z : - le recovery - le paquet de mise à jour - le service de mise à jour - les chinois - etc.</p>"
+  subtype: presentation
+  speakers: [3632]
+  language: fr
+-
+  id: 14
+  title: "Gradle plugins: take it to the next level"
+  description: "<p>Développement Android<br />It's now a long time Gradle is the official build system for Android. And as a very good developer you already switched to it, and you customize it depending on your needs.<br /><br />Most of the time, the cleaner way to manage all these customizations is to build Gradle plugins.<br /><br />During this talk we will see best practices about building your plugin to make it a good citizen, more efficient, and more famous!<br /><br />We will explain how to:<ul><li>interact with the Android Gradle Plugin;</li><li>build Gradly DSLs;</li><li>use incremental builds;</li><li>test your plugin on a good way;</li><li>publish your plugin;</li><li>and many other things!</li></ul></p>"
+  subtype: presentation
+  speakers: [54886]
+  language: en
+-
+  id: 15
+  title: "Exploring the possibilities of Unidirectional Data Flow Architectures on Android"
+  description: "<p>Développement Android<br />Unidirectional data flow is a simple architecture used to design applications that are easy to reason about. It opens the doors to interesting possibilities. Namely, time travel debugging, improved testing, and the ability to deterministically reproduce bugs.<br /><br />We’ll start with a tour of existing approaches and demo a current web implementation. Then, we’ll discuss the history. Afterwards, we’ll introduce a Java library for writing Android apps and present a demo with code examples. Finally, we’ll present a few more interesting avenues of exploration: Hot Reloading, better bug reporting, etc.</p>"
+  subtype: presentation
+  speakers: [52002]
+  language: fr
+-
+  id: 16
+  title: "Let's sprinkle some #PerfMatters on our ViewGroups"
+  description: "<p>UX/UI<br />Framework classes like RelativeLayout are extremely powerful but their first goal is to be versatile. This comes with significant performances costs that can prevent your app from being fast and smooth, especially in constrained areas like list scrolling. Let's see how we can remedy this by writing our own layouting and drawing logic where it matters.</p>"
+  subtype: presentation
+  speakers: [62738]
+  language: fr
+-
+  id: 17
+  title: "Dagger 2 - Back to basics"
+  description: "<p>Développement Android<br />Dagger 2 est sorti en avril dernier et permet enfin de réaliser l'injection de dépendances de vos applications complètement à la compilation. Cette présentation reviendra sur les bases et les concepts de l'injection de dépendances, présentera en détails l'API par des exemples concrets et démystifiera le fonctionnement interne de Dagger 2.</p>"
+  subtype: presentation
+  speakers: [7237]
+  language: fr
+-
+  id: 18
+  title: "Squeezing the last drop of performance out of your Gradle builds"
+  description: "<p>Développement Android<br />As developers we spend way too much time waiting for things. We all know waiting is no fun and we’d rather spend time developing and testing our app. Sometimes we’re waiting on our integration test suite, sometimes it’s our app, but quite often Gradle is the time waster. The latter is often regarded as a black box that’s way slower than Ant/Eclipse ever was, and that’s saying something!<br /><br />In this session we’ll see how having a deeper understanding of your Gradle build can help you identify major bottlenecks. We’ll look at how minimizing the configuration and dependency resolution overhead helps to reduce your cycle times when using host-based tools, like the new unit testing support, Robolectric or JRebel for Android. We’ll also explore ways of structuring your project in a way that takes advantage of Gradle incremental builds.</p>"
+  subtype: presentation
+  speakers: [656]
+  language: en
+-
+  id: 19
+  title: "Burning Marshmallows - A Fireside Android Security Model updates"
+  description: "<p>Développement Android<br />It has been decided. Not M, not M&M's, and not even Mars. The new candy in town is the Marshmallow, and with it come new security features such as dynamic permission models and Fingerprinting authentication API's. In this talk we will review how the new additions will improve security for some parties of the Android ecosystem, while laying the foundations for decreasing the security of others. Then, we will recap Android entire security feature suite, focusing on compiler and OS-wide protections and refute some aggressive PR stunts from the last couple of months, discuss the cases where weaknesses may reside and analyze the exploitation probability in a relaxed, and rather informal way (No advanced cryptography degree is required!)</p>"
+  subtype: presentation
+  speakers: [27801]
+  language: en
+-
+  id: 20
+  title: "Testez unitairement votre code, même votre UI !"
+  description: "<p>Développement Android<br />Tester son application Android a très longtemps été négligé. Il y a des bonnes raisons pour ça. Ou plutôt il y avait. Avec les dernières version du plugin Android pour Gradle, la situation a bien changé.<br /><br />Cette présentation est pour vous si vous vous posez les questions suivantes : - Comment créer et faire tourner des tests sur Android Studio, en ligne de commande et sur mon integration continue ? - Comment faire tourner des tests sans avoir besoin de téléphone connecté ou d'émulateur et de manière très rapide ? - Comment augmenter la couverture de mon code, notamment la UI que je n'arrive pas à tester avec de simple tests unitaires ?<br /><br />A travers mes retours d'expériences, d'exemples concrets, je vais tenter de répondre à ses questions. Pour la partie sur le test unitaire de l'interface utilisateur, il sera question d'utilisation de patron d'architecture proche du modèle MVP qui m'aide également à mieux structurer et alléger mon code.<br /><br />La partie orale de cette présentation est en français. Le code et les slides de support sont en anglais.</p>"
+  subtype: presentation
+  speakers: [1690]
+  language: fr
+-
+  id: 21
+  title: "Ingredients for a healthy codebase"
+  description: "<p>Développement Android<br />Your app lives around monolithic Activities/Fragments? You think that singletons are amazing or you can’t get away from them? You find your app hard to test?<br /><br />Writing robust and maintainable software is complex and we know that designing the general architecture of an app is complicated. The goal of this talk is to give you ingredients to build a healthy codebase for your Android app. By going through the entire stack from the data layer to the presentation layer, we will see how to make it maintainable and testable.</p>"
+  subtype: presentation
+  speakers: [54742]
+  language: en
+-
+  id: 22
+  title: "Pourquoi la batterie de mon smartphone se vide en une journée ? voir moins :-/"
+  description: "<p>Développement Android<br />Vous avez surement déjà entendu parler des projets <i>Volta</i> ou <i>Doze</i> qui visent à améliorer l'<b>autonomie</b> des smartphones Android. La batterie est un composant primordial de votre téléphone. Venez découvrir comment l'énergie qu'elle stocke est consommée et quels sont les pièges à éviter afin de ne pas la gaspiller grâce à <b>ARO</b> et <b>Battery Historian</b>. Au programme : un peu de physique, du code, et des mesures.</p>"
+  subtype: presentation
+  speakers: [60848]
+  language: fr
+-
+  id: 23
+  title: "What To Do About Fragments?"
+  description: "<p>Développement Android<br />Fragments are a regular subject of controversy in the Android community. They're big and unwieldy, difficult to test, and complicate a controller lifecycle that wasn't particularly simple in the first place. In this talk, Bill will come clean on why he continues to choose to emphasize fragments to beginners.</p>"
+  subtype: presentation
+  speakers: [45915]
+  language: en
+-
+  id: 24
+  title: "Le Data Binding sur Android"
+  description: "<p>Développement Android<br />Une révolution se prépare au sein du développement Android: le Data Binding. Révélé sous la forme d'une bibliothèque en béta depuis plusieurs mois, que vaut cet outil et comment modifie-t'il notre façon de développer des applications? Cette présentation vous permettra de découvrir le fonctionnement de cette bibliothèque, son potentiel et ses éventuelles limites.</p>"
+  subtype: presentation
+  speakers: [55337]
+  language: fr
+-
+  id: 25
+  title: "Performance Matter"
+  description: "<p>Développement Android<br />In ideal world our apps will run forever, work at the speed of light and will always provide a delightful experience to our users. In reality we have limited memory, battery, connectivity and computing power. In this talk we will see how we can optimize our memory footprint, required computing power and battery consumption.</p>"
+  subtype: presentation
+  speakers: [46332]
+  language: en
+-
+  id: 26
+  title: "Comment tester (vraiment) une application Android"
+  description: "<p>Développement Android<br />A partir d'une feuille blanche (Android), découvrez quelles stratégies de tests mettre en place pour garantir le bon fonctionnement, la résilience et la maintenabilité de l'application.<br /><br />Nous commencerons par un bref rappel de ce qu'est un test, puis nous plongerons dans une session live coding. A la fin de cette présentation, le TDD (oui, sur Android), les tests d'intégrations et les rapports associés n'aurons plus de secret pour vous.</p>"
+  subtype: presentation
+  speakers: [42098, 58340]
+  language: fr
+-
+  id: 27
+  title: "From Nice To Astonishing"
+  description: "<p>UX/UI<br />So now you have published your app on the Play Store. You certainly have some bugs to fix, and features to refine. And then, what? How do you transform your app into something really, really great? This talk is all about this: making your app astonishing.<br /><br />Based on simple Interaction design principles, you'll discover how to make your app considerate and smart, and bring it to the next level. From search to machine learning, from social networks to common UX hints, it contains everything your app needs to become amazing!</p>"
+  subtype: presentation
+  speakers: [86297]
+  language: fr
+-
+  id: 28
+  title: "Android Auto : Rolling Droid gather no moss"
+  description: "<p>Développement Android<br />Android Auto est une nouvelle extension de la plateforme Android. A l'image d'Android Wear, il s'agit d'une interface pour proposer des notifications et des interactions rapides ou faibles à l'utilisateur. La particularité est que les traditionnellement flexibles guidelines de Google sont devenues des contraintes fermes. Nous vous proposons ici une analyse complète de ce nouvel horizon pour Android.</p>"
+  subtype: presentation
+  speakers: [24812]
+  language: en
+-
+  id: 29
+  title: "Archos Fusion Storage: a flexible and innovative mean to extend your Android products storage"
+  description: "<p>Développement Android<br />On affordable devices, storage is scarce and currently on Android, adding an external SD card is not the solution. In this contribution, the technical details of Archos Fusion Storage is presented in details which consists in a user friendly expansion of Android phone/tablet storage space proposed at external SD card insertion. Principle is to dedicate all internal storage to /data applications and do not let /data/media interfere by pushing it to external muSD through a transparent fusion process. A migration step is proposed and there is no file size limit even on FAT32 muSD.</p>"
+  subtype: presentation
+  speakers: [89927]
+  language: en
+-
+  id: 30
+  title: "Microsoft, c'est aussi des services pour vos Apps Android (si, si!)"
+  description: "<p>Développement Android<br />Pendant ce talk, nous vous proposons de faire un tour d'horizon des différents services proposés par Microsoft pour les développeurs. Microsoft Azure Mobile Apps, Application Insights, et Oxford seront au rendez-vous ainsi que bien d'autres.<br /><br />Il y aura peu de slides, du code, de la passion et des barbus. Viendez!</p>"
+  subtype: presentation
+  speakers: [40048]
+  language: fr
+-
+  id: 31
+  title: "The Android NDK and its new support in Android Studio/gradle-experimental plugin"
+  description: "<p>Développement Android<br />The Android NDK (Native Development Kit) is used to integrate C/C++/asm code into Android applications and libraries.<br /><br />After a quick overview of the NDK, you'll get to see how you can use it with the new Android Studio and the gradle-experimental plugin, and how to migrate already existing projects and integrate 3rd party libraries while avoiding many pitfalls.</p>"
+  subtype: presentation
+  speakers: [22378]
+  language: en
+-
+  id: 32
+  title: "The Sharing Economy made Amazing by Android"
+  description: "<p>Android Everywhere<br />This week thousands of Airbnb hosts from around the world will descend on Paris. How can Android help them differentiate and what can that teach us about our very own App development? The connected home, apps that use predictive technology, beacons, NFC, Cardboard, Chromecast, advanced notifications, and more! Android gives the developer so many options to explore. This presentation will include code examples woven into a persuasive story about the power of Android to awaken surprise and delight in our users.</p>"
+  subtype: presentation
+  speakers: [54657]
+  language: en
+
