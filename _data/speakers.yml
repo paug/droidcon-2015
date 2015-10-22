@@ -345,4 +345,23 @@
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@ph0b'}
     - {name: 'site', link: 'https://plus.google.com/+XavierHallade'}
+- 
+  id: 42098
+  name: "Benjamin"
+  surname: "Lacroix"
+  thumbnailUrl: 3721841ae671405b7bcec504d47da671
+  company: "XEBIA"
+  bio: "Craftman Android"
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@benjlacroix'}
+    - {name: 'site', link: 'https://www.linkedin.com/profile/view?id=AAIAAAKnC-4BXlvTDPkQYjiYClV4jETjX5d9t94'}
+- 
+  id: 58340
+  name: "Thomas"
+  surname: "Guerin"
+  thumbnailUrl: 742c61e904b91c905521a640c2dc0427
+  company: "Deezer"
+  bio: "Passionné de développement Android et adepte des bonnes pratiques de développement."
+  social: 
+    - {name: 'twitter', link: 'https://twitter.com/@Tom404_'}
 
