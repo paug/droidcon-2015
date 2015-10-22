@@ -40,6 +40,7 @@ c4sponsorsUrl: "mailto:contact@droidcon.fr"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/speakers/", text: "Speakers & Talks"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
