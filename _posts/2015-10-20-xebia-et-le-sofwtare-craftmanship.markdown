@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Xebia et le "Software Craftmanship"'
+title:  'Xebia et le "Software Craftsmanship"'
 date:   2015-10-20 11:30:00
 isStaticPost: false
 ---
