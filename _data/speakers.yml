@@ -14,7 +14,7 @@
   surname: "Fogel"
   thumbnailUrl: AF_HD.jpg
   company: "Dashlane"
-  bio: "I am Co-founder at Dashlane and running product there. I have studied business (ESCP-Europe) and computer science (Centrale Paris) and have worked on UI & UX since then while growing the Dashlane product. I have also co-founded the French Blog and Publishing company Playlist Society (www.playlistsociety.com) for which I take care of development, design and UX."
+  bio: "I am Co-founder at Dashlane and running product there. I have studied business (ESCP-Europe) and computer science (Centrale Paris) and have worked on UI & UX since then while growing the Dashlane product. I have also co-founded the French Blog and Publishing company Playlist Society (<a href='http://www.playlistsociety.com'>www.playlistsociety.com</a>) for which I take care of development, design and UX."
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+alexisfogel"}
@@ -29,7 +29,7 @@
   bio: "Alizée is a (embedded) system developer at Genymobile, a startup offering companies its Android expertise through a range of application and system services and innovative solutions. She works on virtualization problematics, graphics stack on Linux and Android ROM cooking. She also teaches courses on Android system at EPITA to the future engineers specializing in embedded systems. "
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@kynzie___'}
-    - {name: 'site', link: 'www.genymobile.com'}
+    - {name: 'site', link: 'http://www.genymobile.com'}
 - 
   id: 29788
   name: "Alexis"
@@ -55,7 +55,7 @@
   surname: "Latislaw"
   thumbnailUrl: New-Headshot.jpg
   company: "Green Life Software Development"
-  bio: "Corey Leigh Latislaw (coreylatislaw.com) is a Google Developer Expert (GDE) in Android who has written several high profile Android applications at companies large and small. By day she is rebooting a large hybrid enterprise app as a native Android app. At night she authors videos and books on Android programming, runs an Android + full-stack consulting firm, and organizes the Philadelphia Google Developer Group. She is passionate about travel, local food, the outdoors, photography, and living in Philly."
+  bio: "Corey Leigh Latislaw (<a href='http://coreylatislaw.com'>coreylatislaw.com</a>) is a Google Developer Expert (GDE) in Android who has written several high profile Android applications at companies large and small. By day she is rebooting a large hybrid enterprise app as a native Android app. At night she authors videos and books on Android programming, runs an Android + full-stack consulting firm, and organizes the Philadelphia Google Developer Group. She is passionate about travel, local food, the outdoors, photography, and living in Philly."
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -96,7 +96,7 @@
   surname: "Margraff"
   thumbnailUrl: photo.jpg.1
   company: "Microsoft"
-  bio: "Evangéliste développeur chez Microsoft France, Etienne fait du développement dans l'univers des technologies Microsoft depuis plusieurs années. Geek passionné par la techno, Etienne joue entre autre avec HTML5, Javascript, CSS, Visual Studio, Cordova et la mobilité en général. Il touche un peu à la 3D avec une contribution modeste sur BabylonJS (www.babylonjs.com). <br />Il est co-créateur de l’outil open-source Vorlon.js (http://www.vorlonjs.io), un outil cross-plateforme pour débugger le web.<br />Il est speaker dans de nombreux événements tels que les TechDays, DroidCon, meetups, Kiwi Party, etc.<br />Vous pouvez le retrouver sur son blog : http://blogs.msdn.com/b/emargraff et sur twitter : http://www.twitter.com/meulta."
+  bio: "Evangéliste développeur chez Microsoft France, Etienne fait du développement dans l'univers des technologies Microsoft depuis plusieurs années. Geek passionné par la techno, Etienne joue entre autre avec HTML5, Javascript, CSS, Visual Studio, Cordova et la mobilité en général. Il touche un peu à la 3D avec une contribution modeste sur BabylonJS (<a href='http://www.babylonjs.com'>www.babylonjs.com</a>). <br />Il est co-créateur de l’outil open-source Vorlon.js (<a href='http://www.vorlonjs.io'>http://www.vorlonjs.io</a>), un outil cross-plateforme pour débugger le web.<br />Il est speaker dans de nombreux événements tels que les TechDays, DroidCon, meetups, Kiwi Party, etc.<br />Vous pouvez le retrouver sur son blog : <a href='http://blogs.msdn.com/b/emargraff'>http://blogs.msdn.com/b/emargraff</a> et sur twitter : <a href='http://www.twitter.com/meulta'>http://www.twitter.com/meulta</a>."
   social: 
     - {name: 'site', link: 'https://plus.google.com/+EtienneMargraff'}
 - 
@@ -139,7 +139,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+FlorianMierzejewski"}
     - {name: "twitter", link: "http://twitter.com/florianmski"}
     - {name: "github", link: "https://github.com/florianmski"}
-    - {name: "site", link: "florianmski.fr"}
+    - {name: "site", link: "http://florianmski.fr"}
 - 
   id: 62738
   name: "François"
@@ -251,7 +251,7 @@
   surname: "Crépieux"
   thumbnailUrl: db950a4adf54b7a13cd3c70fdcd7e334
   company: "Orange"
-  bio: "Après plusieurs années passées du coté des infrastructures réseau (Réseau Intelligent, H.323, IMS), je suis aujourd'hui développeur senior sur Android. Mon sujet de prédilection du moment: l’impact que peuvent avoir les applications sur le terminal mobile et le réseau.<br />https://www.linkedin.com/in/pcrepieux"
+  bio: "Après plusieurs années passées du coté des infrastructures réseau (Réseau Intelligent, H.323, IMS), je suis aujourd'hui développeur senior sur Android. Mon sujet de prédilection du moment: l’impact que peuvent avoir les applications sur le terminal mobile et le réseau.<br /><a href='https://www.linkedin.com/in/pcrepieux'>https://www.linkedin.com/in/pcrepieux</a>"
   social: []
 - 
   id: 3632
@@ -273,7 +273,7 @@
   bio: "I'm Android developer at iD.apps. I've been passionate about mobile development for several years, and I love to create smart and user-centric apps, focusing on user experience and little design details."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@Aerilys'}
-    - {name: 'site', link: 'blog.aerilys.fr'}
+    - {name: 'site', link: 'http://blog.aerilys.fr'}
 - 
   id: 46332
   name: "Ran"
@@ -283,7 +283,7 @@
   bio: "Google Dev Rel by day and sw poet by night. Ran compiled his first program when he was 8y/o and has been moving bits since. "
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@shed2k'}
-    - {name: 'site', link: 'developers.android.com'}
+    - {name: 'site', link: 'http://developers.android.com'}
 - 
   id: 27801
   name: "Ron"
@@ -293,7 +293,8 @@
   bio: "Ron is a serial entrepreneur and a software development consultant, with long history developing performance and safety critical software, leading development groups, training application and platform developers, and helping companies in the process of board bring-ups, design and execution of embedded systems products, security best practices and product start-up. He specializes in all aspects of distributed systems, Linux and Android internals, a member of the Android-X86 project and the the designer and original developer of the first Android Remote Display Protocol, as the Founder and CTO of Nubo, the first Remote Android Workspace for the Enterprise. Ron frequently passes on his knowledge on the world's leading  conferences."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/ronubo'}
-    - {name: 'site', link: 'thepscg.com , ronubo.blogspot.com'}
+    - {name: 'site', link: 'http://thepscg.com'}
+    - {name: 'site', link: 'http://ronubo.blogspot.com'}
 - 
   id: 54742
   name: "Romain"
@@ -320,7 +321,7 @@
   surname: "Isakova"
   thumbnailUrl: 99f9258e-66aa-45aa-8776-c82005ef4d7c
   company: "JetBrains"
-  bio: "Svetlana is working on the Kotlin language (http://kotlinlang.org/) at JetBrains since 2011. She is one of the authors of \"Kotlin in Action\" and a frequent conference speaker."
+  bio: "Svetlana is working on the Kotlin language (<a href='http://kotlinlang.org/'>http://kotlinlang.org/</a>) at JetBrains since 2011. She is one of the authors of \"Kotlin in Action\" and a frequent conference speaker."
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
@@ -337,7 +338,7 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@turhanoz'}
-    - {name: 'site', link: 'turhanoz.com'}
+    - {name: 'site', link: 'http://turhanoz.com'}
 - 
   id: 31973
   name: "Volker"
