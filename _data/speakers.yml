@@ -71,7 +71,7 @@
   surname: "Cavaillès"
   thumbnailUrl: photo.jpg
   company: "Tripndrive"
-  bio: "Je suis passionné par la mobilité et ses nouveaux usages et en particulier l'interaction avec les objets connectés.\r\nJe suis également organisateur du Startup Weekend Lille \"Maker Edition\" et Facilitateur Startup Weekend.\r\n=D"
+  bio: "Je suis passionné par la mobilité et ses nouveaux usages et en particulier l'interaction avec les objets connectés.<br />Je suis également organisateur du Startup Weekend Lille \"Maker Edition\" et Facilitateur Startup Weekend.<br />=D"
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@thedamfr'}
     - {name: 'site', link: 'https://plus.google.com/+DamienCavailles'}
@@ -96,7 +96,7 @@
   surname: "Margraff"
   thumbnailUrl: photo.jpg.1
   company: "Microsoft"
-  bio: "Evangéliste développeur chez Microsoft France, Etienne fait du développement dans l'univers des technologies Microsoft depuis plusieurs années. Geek passionné par la techno, Etienne joue entre autre avec HTML5, Javascript, CSS, Visual Studio, Cordova et la mobilité en général. Il touche un peu à la 3D avec une contribution modeste sur BabylonJS (www.babylonjs.com). \r\nIl est co-créateur de l’outil open-source Vorlon.js (http://www.vorlonjs.io), un outil cross-plateforme pour débugger le web.\r\nIl est speaker dans de nombreux événements tels que les TechDays, DroidCon, meetups, Kiwi Party, etc.\r\nVous pouvez le retrouver sur son blog : http://blogs.msdn.com/b/emargraff et sur twitter : http://www.twitter.com/meulta.\r\n"
+  bio: "Evangéliste développeur chez Microsoft France, Etienne fait du développement dans l'univers des technologies Microsoft depuis plusieurs années. Geek passionné par la techno, Etienne joue entre autre avec HTML5, Javascript, CSS, Visual Studio, Cordova et la mobilité en général. Il touche un peu à la 3D avec une contribution modeste sur BabylonJS (www.babylonjs.com). <br />Il est co-créateur de l’outil open-source Vorlon.js (http://www.vorlonjs.io), un outil cross-plateforme pour débugger le web.<br />Il est speaker dans de nombreux événements tels que les TechDays, DroidCon, meetups, Kiwi Party, etc.<br />Vous pouvez le retrouver sur son blog : http://blogs.msdn.com/b/emargraff et sur twitter : http://www.twitter.com/meulta."
   social: 
     - {name: 'site', link: 'https://plus.google.com/+EtienneMargraff'}
 - 
@@ -105,7 +105,7 @@
   surname: "Caron"
   thumbnailUrl: photo.jpg.2
   company: "Intel Security"
-  bio: "Etienne has been an active member of the Montreal Android community since 2010. As part of the Montreal Android GDG, he organises meetups, hackathons and codelabs. As part of the Google Developer Expert program, he also devotes time towards mentoring startups and developers new to Android.\r\n\r\nHe got his start in programming in the mid-'80s obsessing over C64 demos, and went on to organize the NAID 95/96 demoparties. 3D animation, procedural content generation and VR are some of his hobbies, and he loves to introduce other developers to this fascinating field.\r\n\r\nHe's the Android technical team lead for TrueKey from Intel Security. He lives in Montreal with his wonderful wife and daughter, and speaks French and English fluently."
+  bio: "Etienne has been an active member of the Montreal Android community since 2010. As part of the Montreal Android GDG, he organises meetups, hackathons and codelabs. As part of the Google Developer Expert program, he also devotes time towards mentoring startups and developers new to Android.<br /><br />He got his start in programming in the mid-'80s obsessing over C64 demos, and went on to organize the NAID 95/96 demoparties. 3D animation, procedural content generation and VR are some of his hobbies, and he loves to introduce other developers to this fascinating field.<br /><br />He's the Android technical team lead for TrueKey from Intel Security. He lives in Montreal with his wonderful wife and daughter, and speaks French and English fluently."
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109736270049664372028/"}
@@ -118,7 +118,7 @@
   surname: "LEZMY"
   thumbnailUrl: photo.jpg.3
   company: "Genymobile"
-  bio: "Eyal is a software engineer at Genymobile, working on Genymotion – an Android emulator. He's been working with Android since 2009.\r\n\r\nHe's also Treasurer at the Paris Android User Group and a Google Developer Expert in Android.\r\n\r\nOver the years, Eyal has been involved in several R&D projects with the French internet providers; worked for Samsung's Android B2B team; and built an Android set-top box for a hotel chain."
+  bio: "Eyal is a software engineer at Genymobile, working on Genymotion – an Android emulator. He's been working with Android since 2009.<br /><br />He's also Treasurer at the Paris Android User Group and a Google Developer Expert in Android.<br /><br />Over the years, Eyal has been involved in several R&D projects with the French internet providers; worked for Samsung's Android B2B team; and built an Android set-top box for a hotel chain."
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
@@ -165,7 +165,7 @@
   surname: "Martinez"
   thumbnailUrl: me.jpg
   company: "Xebia"
-  bio: "Jeremie est développeur Android depuis plus de 4 ans et travaille en tant que consultant chez Xebia. Passionné par le développement mobile, il est un fervant adepte des bonnes pratiques et des principes du Software Craftsmanship.\r\n"
+  bio: "Jeremie est développeur Android depuis plus de 4 ans et travaille en tant que consultant chez Xebia. Passionné par le développement mobile, il est un fervant adepte des bonnes pratiques et des principes du Software Craftsmanship."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@jeremmartinez'}
     - {name: 'site', link: 'http://blog.xebia.fr/author/jeremie-martinez/'}
@@ -175,7 +175,7 @@
   surname: "Pink"
   thumbnailUrl: b5b43736709fb47edc3ee649618d84f7
   company: "ZeroTurnaround"
-  bio: "Madis is currently working on JRebel for Android at ZeroTurnaround.\r\nHe started hacking on Android apps on a T-Mobile G1 more than 6 years ago\r\nand quickly grew a particular interest in build systems and developer tooling.\r\n\r\nHis previous experience includes working on the Android Platform team at Spotify\r\nand producing multiple apps at Mobi Lab. During his free time he likes to dabble\r\naround with guitars and home recording."
+  bio: "Madis is currently working on JRebel for Android at ZeroTurnaround.<br />He started hacking on Android apps on a T-Mobile G1 more than 6 years ago<br />and quickly grew a particular interest in build systems and developer tooling.<br /><br />His previous experience includes working on the Android Platform team at Spotify<br />and producing multiple apps at Mobi Lab. During his free time he likes to dabble<br />around with guitars and home recording."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@madisp'}
     - {name: 'site', link: 'https://zeroturnaround.com/software/jrebel-for-android/'}
@@ -185,7 +185,7 @@
   surname: "de Courville"
   thumbnailUrl: photo.jpg.5
   company: "Archos"
-  bio: "Archos CTO.\r\nArchos is a company that is manufacturing Google certified phone and tablets and has a comprehensive Android based Home connected solution. Apart from purely hardware based solutions, Archos is also making Android applications such has Archos Video Player and seeds some Archos differentiating software included in all their devices such as Archos Fusion Software."
+  bio: "Archos CTO.<br />Archos is a company that is manufacturing Google certified phone and tablets and has a comprehensive Android based Home connected solution. Apart from purely hardware based solutions, Archos is also making Android applications such has Archos Video Player and seeds some Archos differentiating software included in all their devices such as Archos Fusion Software."
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/106693526004988859571"}
@@ -217,7 +217,7 @@
   surname: "BOUDRAA"
   thumbnailUrl: e139aa7ae2b6c738a42bc6f0303df361
   company: "snips"
-  bio: "Mounir Boudraa is a software engineer passionate about code craftsmanship.\r\nHe worked at Xebia as a mobile engineer, Android trainer and recruiter.  He is now making technology disappear at snips since 4 monthes"
+  bio: "Mounir Boudraa is a software engineer passionate about code craftsmanship.<br />He worked at Xebia as a mobile engineer, Android trainer and recruiter.  He is now making technology disappear at snips since 4 monthes"
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
   social: 
@@ -239,7 +239,7 @@
   surname: "Benayoun"
   thumbnailUrl: 5e5dd32f5540646a77252f90a5650952
   company: "Le cabinet numérique"
-  bio: "Développeur Android depuis 2011, je travaille actuellement sur deux projets d'Activity Tracking : Fit Plus et le projet KiloMeter. \r\n\r\n"
+  bio: "Pierre est fondateur du Cabinet Numérique et président du Bordeaux Android User Group à Bordeaux.<br /><br />Il travaille actuellement sur plusieurs projets Android liés à l'Activity Tracking."
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "http://baug.fr/"}
   social: 
@@ -251,7 +251,7 @@
   surname: "Crépieux"
   thumbnailUrl: db950a4adf54b7a13cd3c70fdcd7e334
   company: "Orange"
-  bio: "Après plusieurs années passées du coté des infrastructures réseau (Réseau Intelligent, H.323, IMS), je suis aujourd'hui développeur senior sur Android. Mon sujet de prédilection du moment: l’impact que peuvent avoir les applications sur le terminal mobile et le réseau.\r\nhttps://www.linkedin.com/in/pcrepieux"
+  bio: "Après plusieurs années passées du coté des infrastructures réseau (Réseau Intelligent, H.323, IMS), je suis aujourd'hui développeur senior sur Android. Mon sujet de prédilection du moment: l’impact que peuvent avoir les applications sur le terminal mobile et le réseau.<br />https://www.linkedin.com/in/pcrepieux"
   social: []
 - 
   id: 3632
@@ -259,7 +259,7 @@
   surname: "Dybman"
   thumbnailUrl: tumblr_inline_naj6huWLqb1sa6hof.jpg
   company: "Sidereo"
-  bio: "I am the Mario Kart undisputed champion of the company.\r\nMy motto: Do one thing but do it well\r\n\r\nMy favorite movie: Johnny Mnemonic\r\nBecause information matters."
+  bio: "I am the Mario Kart undisputed champion of the company.<br />My motto: Do one thing but do it well<br /><br />My favorite movie: Johnny Mnemonic<br />Because information matters."
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
   social: 
@@ -357,7 +357,7 @@
   surname: "Hallade"
   thumbnailUrl: photo.jpg.10
   company: "Intel"
-  bio: "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies.\r\nHe's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV."
+  bio: "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies.<br />He's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV."
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
@@ -369,7 +369,7 @@
   surname: "Lacroix"
   thumbnailUrl: 3721841ae671405b7bcec504d47da671
   company: "XEBIA"
-  bio: "Craftman Android"
+  bio: "Craftsman Android"
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@benjlacroix'}
     - {name: 'site', link: 'https://www.linkedin.com/profile/view?id=AAIAAAKnC-4BXlvTDPkQYjiYClV4jETjX5d9t94'}
