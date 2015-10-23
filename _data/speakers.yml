@@ -95,7 +95,7 @@
   name: "Etienne"
   surname: "Margraff"
   thumbnailUrl: photo.jpg.1
-  company: null
+  company: "Microsoft"
   bio: "Evangéliste développeur chez Microsoft France, Etienne fait du développement dans l'univers des technologies Microsoft depuis plusieurs années. Geek passionné par la techno, Etienne joue entre autre avec HTML5, Javascript, CSS, Visual Studio, Cordova et la mobilité en général. Il touche un peu à la 3D avec une contribution modeste sur BabylonJS (www.babylonjs.com). \r\nIl est co-créateur de l’outil open-source Vorlon.js (http://www.vorlonjs.io), un outil cross-plateforme pour débugger le web.\r\nIl est speaker dans de nombreux événements tels que les TechDays, DroidCon, meetups, Kiwi Party, etc.\r\nVous pouvez le retrouver sur son blog : http://blogs.msdn.com/b/emargraff et sur twitter : http://www.twitter.com/meulta.\r\n"
   social: 
     - {name: 'site', link: 'https://plus.google.com/+EtienneMargraff'}
@@ -106,6 +106,9 @@
   thumbnailUrl: photo.jpg.2
   company: "Intel Security"
   bio: "Etienne has been an active member of the Montreal Android community since 2010. As part of the Montreal Android GDG, he organises meetups, hackathons and codelabs. As part of the Google Developer Expert program, he also devotes time towards mentoring startups and developers new to Android.\r\n\r\nHe got his start in programming in the mid-'80s obsessing over C64 demos, and went on to organize the NAID 95/96 demoparties. 3D animation, procedural content generation and VR are some of his hobbies, and he loves to introduce other developers to this fascinating field.\r\n\r\nHe's the Android technical team lead for TrueKey from Intel Security. He lives in Montreal with his wonderful wife and daughter, and speaks French and English fluently."
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109736270049664372028/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/kanawish'}
     - {name: 'site', link: 'https://plus.google.com/+EtienneCaron'}
@@ -116,6 +119,9 @@
   thumbnailUrl: photo.jpg.3
   company: "Genymobile"
   bio: "Eyal is a software engineer at Genymobile, working on Genymotion – an Android emulator. He's been working with Android since 2009.\r\n\r\nHe's also Treasurer at the Paris Android User Group and a Google Developer Expert in Android.\r\n\r\nOver the years, Eyal has been involved in several R&D projects with the French internet providers; worked for Samsung's Android B2B team; and built an Android set-top box for a hotel chain."
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/Eyal_Lezmy'}
     - {name: 'site', link: 'https://plus.google.com/+EyalLEZMY'}
@@ -200,6 +206,8 @@
   thumbnailUrl: photo.jpg.6
   company: "Captain Train"
   bio: "Mathieu is a Mobile Software Developer at Captain Train, and GDG leader at Lyon with the Lyon Android User Group. Mathieu is fond of new technologies, and particularly with Android. He loves to create applications that integrate seamlessly with the system and spread his love for Android by giving some talks."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/100234371859446651010/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@Mathieu_Calba'}
     - {name: 'site', link: 'https://plus.google.com/+MathieuCalba'}
@@ -210,6 +218,8 @@
   thumbnailUrl: e139aa7ae2b6c738a42bc6f0303df361
   company: "snips"
   bio: "Mounir Boudraa is a software engineer passionate about code craftsmanship.\r\nHe worked at Xebia as a mobile engineer, Android trainer and recruiter.  He is now making technology disappear at snips since 4 monthes"
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@_mboudraa'}
     - {name: 'site', link: 'https://plus.google.com/101079866497704610685'}
@@ -230,6 +240,8 @@
   thumbnailUrl: 5e5dd32f5540646a77252f90a5650952
   company: "Le cabinet numérique"
   bio: "Développeur Android depuis 2011, je travaille actuellement sur deux projets d'Activity Tracking : Fit Plus et le projet KiloMeter. \r\n\r\n"
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://baug.fr/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@Pierre_Benayoun'}
     - {name: 'site', link: 'http://www.frandroid.com/blogs/vmvdd/'}
@@ -248,6 +260,8 @@
   thumbnailUrl: tumblr_inline_naj6huWLqb1sa6hof.jpg
   company: "Sidereo"
   bio: "I am the Mario Kart undisputed champion of the company.\r\nMy motto: Do one thing but do it well\r\n\r\nMy favorite movie: Johnny Mnemonic\r\nBecause information matters."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
   social: 
     - {name: 'site', link: 'https://plus.google.com/113008087135852546098'}
 - 
@@ -319,6 +333,8 @@
   thumbnailUrl: ky0MYY5V.jpg
   company: "Socosmoz"
   bio: "Entrepreneur et développeur dans la région parisienne. Passionné par Android. Membre actif du Paug"
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103781206198600111125/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@turhanoz'}
     - {name: 'site', link: 'turhanoz.com'}
@@ -342,6 +358,8 @@
   thumbnailUrl: photo.jpg.10
   company: "Intel"
   bio: "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies.\r\nHe's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV."
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@ph0b'}
     - {name: 'site', link: 'https://plus.google.com/+XavierHallade'}
