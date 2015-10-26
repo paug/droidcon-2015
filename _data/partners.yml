@@ -20,3 +20,5 @@
     - {name: "Droidsoft", description: "Droidsoft, Tout sur Android", link: "http://droidsoft.fr/", imageUrl: "droidsoft.png"}
     - {name: "Ère Numérique", description: "Ère Numérique, Faites le bon choix", link: "http://www.erenumerique.fr/", imageUrl: "erenumerique.png"}
     - {name: "Programmez", description: "Programmez ! Le magazine du développeur", link: "http://programmez.com/", imageUrl: "programmez.png"}
+    - {name: "Startup Village", description: "Startup Village : Le village de l'écosystème entrepreneur et startup", link: "http://www.startupvillage.fr/", imageUrl: "startupvillage.png"}
+    - {name: "FrAndroid", description: "FrAndroid - Communauté mobile Android", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}
