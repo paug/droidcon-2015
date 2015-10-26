@@ -109,7 +109,7 @@
   description: "<p>UX/UI<br />Framework classes like RelativeLayout are extremely powerful but their first goal is to be versatile. This comes with significant performances costs that can prevent your app from being fast and smooth, especially in constrained areas like list scrolling. Let's see how we can remedy this by writing our own layouting and drawing logic where it matters.</p>"
   subtype: presentation
   speakers: [62738]
-  language: fr
+  language: en
 -
   id: 17
   title: "Dagger 2 - Back to basics"
