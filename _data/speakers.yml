@@ -196,6 +196,8 @@
   thumbnailUrl: e552215dd726801c644470feae8bb41c
   company: "Digital Construction"
   bio: "Mark lives in Colorado, USA where he works on a consumer medical application with over 6 million Play Store downloads.  He wrote a book on Google Glass software development, likes open source contributions and snowboarding, and enjoys speaking around the world about Google technology.  "
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107789954104899034011/"}
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@5280mark'}
     - {name: 'site', link: 'http://www.digitalconstruction.com'}
