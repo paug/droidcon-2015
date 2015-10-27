@@ -5,6 +5,7 @@
     - {title: "Track 1 : Le France", color: "#90be4e"}
     - {title: "Track 2 : Le Parisien", color: "#03a9f4"}
     - {title: "Track 3 : L'Européen", color: "#e91e63"}
+    - {title: "Track 4 : Workshop", color: "#e91e63"}
   timeslots:
     - {
         startTime: "08:30",
@@ -14,17 +15,17 @@
     - {
         startTime: "09:30",
         endTime: "010:00",
-        sessionIds: [201, 404, 404]
+        sessionIds: [201, 404, 404, 404]
     }
     - {
         startTime: "10:00",
         endTime: "10:50",
-        sessionIds: [25, 3, 13]
+        sessionIds: [25, 3, 13, 404]
     }
     - {
         startTime: "10:50",
         endTime: "11:40",
-        sessionIds: [16, 14, 29]
+        sessionIds: [16, 14, 29, 404]
     }
     - {
         startTime: "11:40",
@@ -34,12 +35,12 @@
     - {
         startTime: "12:10",
         endTime: "13:00",
-        sessionIds: [5, 18, 4]
+        sessionIds: [5, 18, 4, 404]
     }
     - {
         startTime: "13:00",
         endTime: "13:30",
-        sessionIds: [202, 404, 404]
+        sessionIds: [202, 404, 404, 404]
     }
     - {
         startTime: "13:30",
@@ -49,7 +50,7 @@
     - {
         startTime: "14:30",
         endTime: "15:00",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 2]
     }
     - {
         startTime: "14:30",
@@ -59,17 +60,17 @@
     - {
         startTime: "15:00",
         endTime: "15:30",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 2]
     }
     - {
         startTime: "15:30",
         endTime: "16:00",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 2]
     }
     - {
         startTime: "16:00",
         endTime: "16:30",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 2]
     }
     - {
         startTime: "16:30",
@@ -79,22 +80,22 @@
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 404]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 404]
     }
     - {
         startTime: "18:00",
         endTime: "18:30",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 404]
     }
     - {
         startTime: "18:30",
         endTime: "19:00",
-        sessionIds: [302, 302, 302]
+        sessionIds: [302, 302, 302, 404]
     }
     - {
         startTime: "19:00",
