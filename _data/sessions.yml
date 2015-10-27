@@ -84,8 +84,8 @@
   language: en
 -
   id: 7
-  title: "Comment développer une app en moins d'1h et en moins de 200 ligne avec Kotlin"
-  description: "<p>Développement Android<br />Dans ce talk nous verrons comment développer une application de geolocalisation en affichant les points d'interets autour de notre trajectoire, en temps réeel, en moins de 200 lignes et en 45 minutes grâce à Kotlin.</p>"
+  title: "Comment développer une app en moins d'1h et en moins de 200 lignes avec Kotlin"
+  description: "<p>Développement Android<br />Dans ce talk nous verrons comment développer une application de geolocalisation en affichant les points d'interêts autour de notre trajectoire, en temps réeel, en moins de 200 lignes et en 45 minutes grâce à Kotlin.</p>"
   subtype: presentation
   speakers: [9191]
   language: fr
@@ -113,7 +113,7 @@
 -
   id: 11
   title: "Comment j'ai retrouvé un code d'athlète avec Google Fit API"
-  description: "<p>Développement Android<br />Google Fit est une API qui vous permet de jouer avec les données liées à vos activités.<br /><br />En théorie elle vous permet de créer des statistiques sur le nombre de pas, jouer avec les calories calculées et même trouver le nombre record de tours de pédales par minutes en vélo effectuées par un utilisateur.<br /><br />Mais qu'en est-il en pratique ?<br /><br />Google Fit récupère-t-il bien les données ?<br /><br />Est-il facile de les manipuler ?<br /><br />Qu'est-ce qui intéresse vraiment les utilisateurs ?<br /><br />En s'appuyant sur son expérience avec son application Fit Plus, Pierre Benayoun échangera avec vous sur le sujet.</p>"
+  description: "<p>Développement Android<br />Google Fit est une API qui vous permet de jouer avec les données liées à vos activités.<br /><br />En théorie elle vous permet de créer des statistiques sur le nombre de pas, jouer avec les calories calculées et même trouver le nombre record de tours de pédales par minutes en vélo effectués par un utilisateur.<br /><br />Mais qu'en est-il en pratique ?<br /><br />Google Fit récupère-t-il bien les données ?<br /><br />Est-il facile de les manipuler ?<br /><br />Qu'est-ce qui intéresse vraiment les utilisateurs ?<br /><br />En s'appuyant sur son expérience avec son application Fit Plus, Pierre Benayoun échangera avec vous sur le sujet.</p>"
   subtype: presentation
   speakers: [3900]
   language: fr
@@ -151,7 +151,7 @@
   description: "<p>UX/UI<br />Framework classes like RelativeLayout are extremely powerful but their first goal is to be versatile. This comes with significant performances costs that can prevent your app from being fast and smooth, especially in constrained areas like list scrolling. Let's see how we can remedy this by writing our own layouting and drawing logic where it matters.</p>"
   subtype: presentation
   speakers: [62738]
-  language: en
+  language: fr
 -
   id: 17
   title: "Dagger 2 - Back to basics"
@@ -218,7 +218,7 @@
 -
   id: 26
   title: "Comment tester (vraiment) une application Android"
-  description: "<p>Développement Android<br />A partir d'une feuille blanche (Android), découvrez quelles stratégies de tests mettre en place pour garantir le bon fonctionnement, la résilience et la maintenabilité de l'application.<br /><br />Nous commencerons par un bref rappel de ce qu'est un test, puis nous plongerons dans une session live coding. A la fin de cette présentation, le TDD (oui, sur Android), les tests d'intégrations et les rapports associés n'aurons plus de secret pour vous.</p>"
+  description: "<p>Développement Android<br />A partir d'une feuille blanche (Android), découvrez quelles stratégies de tests mettre en place pour garantir le bon fonctionnement, la résilience et la maintenabilité de l'application.<br /><br />Nous commencerons par un bref rappel de ce qu'est un test, puis nous plongerons dans une session live coding. A la fin de cette présentation, le TDD (oui, sur Android), les tests d'intégrations et les rapports associés n'auront plus de secret pour vous.</p>"
   subtype: presentation
   speakers: [42098, 58340]
   language: fr
