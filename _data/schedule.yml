@@ -3,7 +3,7 @@
   dateReadable: "November 9th"
   tracks:
     - {title: "Auditorium (basement)", color: "#90be4e"}
-    - {title: "Le Parisien (1st floor)`", color: "#03a9f4"}
+    - {title: "Le Parisien (1st floor)", color: "#03a9f4"}
     - {title: "L'Européen (2nd floor)", color: "#e91e63"}
     - {title: "Workshop", color: "#e91e63"}
   timeslots:
@@ -107,7 +107,7 @@
   dateReadable: "November 10th"
   tracks:
     - {title: "Auditorium (basement)", color: "#90be4e"}
-    - {title: "Le Parisien (1st floor)`", color: "#03a9f4"}
+    - {title: "Le Parisien (1st floor)", color: "#03a9f4"}
     - {title: "L'Européen (2nd floor)", color: "#e91e63"}
   timeslots:
     - {
