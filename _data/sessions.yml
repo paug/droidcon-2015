@@ -1,4 +1,46 @@
 -
+  id: 101
+  title: "Registration & Breakfast"
+  place: "Catering area"
+  service: true
+-
+  id: 102
+  title: "Break"
+  place: "Catering area"
+  service: true
+-
+  id: 103
+  title: "Lunch"
+  place: "Catering area"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 104
+  title: "Party"
+  place: "La petite Louise, 54 Rue du Château d'Eau, 75010 Paris"
+  service: true
+  description: "Let's talk & drink."
+-
+  id: 105
+  title: "Thank you see you next year!"
+  service: true
+-
+  id: 201
+  title: "Keynote"
+  service: true
+-
+  id: 202
+  title: "Pitch for Barcamp sessions"
+  service: true
+-
+  id: 301
+  title: "Presentation"
+  service: true
+-
+  id: 302
+  title: "Barcamp"
+  service: true
+-
   id: 1
   title: "Kotlin on Android"
   description: "<p>Développement Android<br />Apple has introduced “a better language” for iOS developers. But what options do we have for Android? Surely Kotlin should be under consideration! Android Studio is now based on Intellij Idea, the “native” environment for Kotlin.<br /><br />Kotlin is a modern language for industry. It can help you reduce the amount of code you write for Android applications and at the same time make it readable and more maintainable.<br /><br />In this session we are going to talk a bit why JetBrains sees the potential in Kotlin comparing to other JVM languages. Then we’ll see how certain language constructs can be used to make Android more enjoyable. Also we’ll look at a DSL for type-safe dynamic layouts and a simple extension plugin that helps to avoid writing ‘findViewById()’ all the time.</p>"

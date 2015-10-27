@@ -1,50 +1,171 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+-
+  date: "2015-11-09"
+  dateReadable: "November 9th"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Track 1 : Le France", color: "#90be4e"}
+    - {title: "Track 2 : Le Parisien", color: "#03a9f4"}
+    - {title: "Track 3 : L'Européen", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+        startTime: "08:30",
+        endTime: "09:30",
+        sessionIds: [101]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        startTime: "09:30",
+        endTime: "010:00",
+        sessionIds: [201, 404, 404]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+        startTime: "10:00",
+        endTime: "10:50",
+        sessionIds: [301, 301, 301]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+        startTime: "10:50",
+        endTime: "11:40",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "11:40",
+        endTime: "12:10",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "12:10",
+        endTime: "13:00",
+        sessionIds: [301, 301, 301]
     }
     - {
         startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+        endTime: "13:30",
+        sessionIds: [202, 404, 404]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "13:30",
+        endTime: "14:30",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:00",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:30",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "18:30",
+        endTime: "19:00",
+        sessionIds: [302, 302, 302]
+    }
+    - {
+        startTime: "19:00",
+        endTime: "22:00",
+        sessionIds: [104]
+    }
+-
+  date: "2015-11-10"
+  dateReadable: "November 10th"
+  tracks: 
+    - {title: "Track 1 : Le France", color: "#90be4e"}
+    - {title: "Track 2 : Le Parisien", color: "#03a9f4"}
+    - {title: "Track 3 : L'Européen", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "08:30",
+        endTime: "09:30",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "010:00",
+        sessionIds: [201, 404, 404]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:50",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "10:50",
+        endTime: "11:20",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "11:20",
+        endTime: "12:10",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "12:10",
+        endTime: "13:00",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:30",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:20",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "15:20",
+        endTime: "16:10",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "16:10",
+        endTime: "17:00",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:20",
+        sessionIds: [301, 301, 301]
+    }
+    - {
+        startTime: "18:20",
+        endTime: "19:00",
+        sessionIds: [105]
     }
