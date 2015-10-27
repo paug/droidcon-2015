@@ -259,7 +259,7 @@
   language: en
 -
   id: 32
-  title: "The Sharing Economy made Amazing by Android"
+  title: "Keynote: The Sharing Economy made Amazing by Android"
   description: "<p>Android Everywhere<br />This week thousands of Airbnb hosts from around the world will descend on Paris. How can Android help them differentiate and what can that teach us about our very own App development? The connected home, apps that use predictive technology, beacons, NFC, Cardboard, Chromecast, advanced notifications, and more! Android gives the developer so many options to explore. This presentation will include code examples woven into a persuasive story about the power of Android to awaken surprise and delight in our users.</p>"
   subtype: presentation
   speakers: [54657]
