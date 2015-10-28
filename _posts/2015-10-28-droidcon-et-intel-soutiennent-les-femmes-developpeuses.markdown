@@ -15,7 +15,7 @@ Ce sponsorship comprend :
 
 **Qu’est-ce que la Droidcon ?**
 
-La plus grande messe Android de France à Paris les 9 et 10 novembre prochains. L’événement s’articule autour de 3 thèmes : Android Everywhere, Android Development and UX/UI. Plus de 50 speakers venant de Microsoft, Intel, Dashlane, Capitaine Train, BlablaCar, Deezer… viendront présenter à 600 passionnés les dernières actualités d’Android.
+La plus grande messe Android de France à Paris les 9 et 10 novembre prochains. L’événement s’articule autour de 3 thèmes : Android Everywhere, Android Development and UX/UI. Plus de 50 speakers venant de Microsoft, Intel, Dashlane, Captain Train, BlablaCar, Deezer… viendront présenter à 600 passionnés les dernières actualités d’Android.
 
 Pour plus d’infos sur les speakers :  [http://droidcon.fr/speakers](http://droidcon.fr/speakers)
 
