@@ -53,11 +53,6 @@
         sessionIds: [302, 302, 302, 2]
     }
     - {
-        startTime: "14:30",
-        endTime: "16:30",
-        sessionIds: [404, 404, 404, 2]
-    }
-    - {
         startTime: "15:00",
         endTime: "15:30",
         sessionIds: [302, 302, 302, 2]
