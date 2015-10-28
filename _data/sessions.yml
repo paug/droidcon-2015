@@ -13,7 +13,7 @@
   title: "Lunch"
   place: "Catering area"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "The best time to talk with speakers and attendees."
 -
   id: 104
   title: "Party"
@@ -40,6 +40,7 @@
   id: 302
   title: "Barcamp"
   service: true
+  description: "to be announced on-site."
 -
   id: 1
   title: "Kotlin on Android"
