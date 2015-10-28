@@ -4,32 +4,21 @@ title:  'La Droidcon et Intel Software soutiennent les femmes développeuses.'
 date:   2015-10-28 11:00:00
 isStaticPost: false
 ---
-La Droidcon et Intel Software sont heureux de vous annoncer la mise en place d’un sponsorship pour les développeuses venant à la Droidcon.
+La Droidcon et Intel Software sont heureux de vous annoncer la mise en place d’un sponsorship pour soutenir les développeuses venant à la Droidcon.
 
+**Qu’est-ce que le Sponsorship Intel & Droidcon ?**
+
+Ce sponsorship comprend :
+
+- **Des tickets à prix réduit** (50€ au lieu de 120€) pour les passionnées de technologie Android. Pour bénéficier de ce ticket, il vous suffit d'entrer le code suivant : "Intel_Women@Droidcon2015". Inscriptions sur le site internet : [http://droidcon.fr](http://droidcon.fr)
+- **Le remboursement, après étude de votre candidature, du transport logement, et ticket à hauteur de 330€ maximum**. Déposez votre candidature et consultez toutes les informations pratiques sur le lien suivant [https://droidcon.de/femalesponsorship](https://droidcon.de/femalesponsorship). Vous serez peut-être sélectionnée pas le département Global de la Droidcon.
 
 **Qu’est-ce que la Droidcon ?**
-La plus grande messe Android de France. L’événement s’articule autour de 3 thèmes : Android Everywhere, Android Development and UX/UI. Plus de 50 speakers venant de Microsoft, Intel, BlablaCar, Deezer… viendront présenter aux 600 attendees les dernières actualités d’Android.
+La plus grande messe Android de France à Paris les 9 et 10 novembre prochains. L’événement s’articule autour de 3 thèmes : Android Everywhere, Android Development and UX/UI. Plus de 50 speakers venant de Microsoft, Intel, Dashlane, Capitaine Train, BlablaCar, Deezer… viendront présenter à 600 passionnés les dernières actualités d’Android.
 
-Pour plus d’infos sur les speakers : http://droidcon.fr/speakers
+Pour plus d’infos sur les speakers :  [http://droidcon.fr/speakers](http://droidcon.fr/speakers)
 
-Pour plus d’infos sur l’agenda : http://droidcon.fr/schedule
+Pour plus d’infos sur l’agenda : [http://droidcon.fr/schedule](http://droidcon.fr/schedule)
 
-**Où ? Quand ? Et quel prix ?**
-Retrouvez-nous à Paris les 9 et 10 novembre prochain.
- Profitez dès aujourd’hui de 50 Happy Hours tickets : 50€ au lieu de 120€ jusqu’au dimanche 1er Novembre à minuit ! Ne manquez pas cette opportunité, premier arrivé, premier servi !
- 
-**Qu’est-ce que le Sponsorship Intel & Droidcon ?**
-Ce sponsorship comprend des tickets à prix réduits (50€ vs 120€) et le remboursement, après l'évènement, des frais de transport et logement, à hauteur de 330€ maximum.
-
-**Comment en profiter ?**
-Les développeuses souhaitant participer peuvent déposer leur candidature et consulter toutes les informations pratiques sur https://droidcon.de/femalesponsorship.
-
-Les candidatures seront ensuite évaluées par la Droidcon selon les critères suivants :
- * Expérience Android de la participante
- * Applications publiées
- * Intérêt pour le sujet
-
-Pour plus d’informations, n’hésitez pas à me contacter.
-
-Alexandra
-alexandra@bemyapp.com
+Pour plus d’informations, n’hésitez pas à nous contacter.
+[contact@droidcon.fr](mailto:contact@droidcon.fr)
