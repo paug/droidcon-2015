@@ -249,7 +249,7 @@
   title: "Microsoft, c'est aussi des services pour vos Apps Android (si, si!)"
   description: "<p>Développement Android<br />Pendant ce talk, nous vous proposons de faire un tour d'horizon des différents services proposés par Microsoft pour les développeurs. Microsoft Azure Mobile Apps, Application Insights, et Oxford seront au rendez-vous ainsi que bien d'autres.<br /><br />Il y aura peu de slides, du code, de la passion et des barbus. Viendez!</p>"
   subtype: presentation
-  speakers: [40048]
+  speakers: [40048, 45678]
   language: fr
 -
   id: 31
