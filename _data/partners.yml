@@ -13,6 +13,7 @@
     - {name: "Couchbase", description: "Couchbase", link: "http://www.couchbase.com/", imageUrl: "couchbase.png"}
     - {name: "Octo Techno", description: "Octo Technology : There is a better way", link: "http://www.octo.com/en", imageUrl: "octo.png"}
     - {name: "Parrot", description: "Parrot: your DroidParty partner", link: "http://www.parrot.com/fr/", imageUrl: "parrot.png"}
+    - {name: "Deezer", description: "Deezer - Encore plus de musique à découvrir", link: "http://deezer.com", imageUrl: "deezer.png"}
 -
   group: "Media"
   elements:
@@ -22,3 +23,4 @@
     - {name: "Programmez", description: "Programmez ! Le magazine du développeur", link: "http://programmez.com/", imageUrl: "programmez.png"}
     - {name: "Startup Village", description: "Startup Village : Le village de l'écosystème entrepreneur et startup", link: "http://www.startupvillage.fr/", imageUrl: "startupvillage.png"}
     - {name: "FrAndroid", description: "FrAndroid - Communauté mobile Android", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}
+    - {name: "ITespresso", description: "ITespresso", link: "http://inscription.itespresso.fr/profile/new-profile-1.php?utm_source=droidcon2015", imageUrl: "itespresso.jpg"}
