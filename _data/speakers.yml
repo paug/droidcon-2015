@@ -70,7 +70,7 @@
   name: "Damien"
   surname: "Cavaillès"
   thumbnailUrl: photo.jpg
-  company: "Tripndrive"
+  company: "Hell'Rider"
   bio: "Je suis passionné par la mobilité et ses nouveaux usages et en particulier l'interaction avec les objets connectés.<br />Je suis également organisateur du Startup Weekend Lille \"Maker Edition\" et Facilitateur Startup Weekend.<br />=D"
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@thedamfr'}
