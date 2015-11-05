@@ -288,15 +288,14 @@
     - {name: 'site', link: 'http://developers.android.com'}
 - 
   id: 27801
-  name: "Ron"
-  surname: "Munitz"
-  thumbnailUrl: ac3bc024116d41a21bcb99be7b2c4954.png
-  company: "The PSCG"
-  bio: "Ron is a serial entrepreneur and a software development consultant, with long history developing performance and safety critical software, leading development groups, training application and platform developers, and helping companies in the process of board bring-ups, design and execution of embedded systems products, security best practices and product start-up. He specializes in all aspects of distributed systems, Linux and Android internals, a member of the Android-X86 project and the the designer and original developer of the first Android Remote Display Protocol, as the Founder and CTO of Nubo, the first Remote Android Workspace for the Enterprise. Ron frequently passes on his knowledge on the world's leading  conferences."
+  name: "Benjamin"
+  surname: "Augustin"
+  thumbnailUrl: ac3bc024116d41a21bcb99be7b2c4954.jpg
+  company: "Novoda"
+  bio: "Benjamin is a Software Craftsman and Android developer at Novoda.<br /><br />Ben might have started thinking functionally when, as a kid, he got hit on his head by a ladder while doing maths homework. Suddenly, he could see functions everywhere, and now he's sharing his visions with the world. Or maybe this is just one of those crazy made up back stories, who knows?<br /><br />One thing is sure, he is convinced that functional programming has a lot to teach us on our everyday work."
   social: 
-    - {name: 'twitter', link: 'https://twitter.com/ronubo'}
-    - {name: 'site', link: 'http://thepscg.com'}
-    - {name: 'site', link: 'http://ronubo.blogspot.com'}
+    - {name: 'twitter', link: 'https://twitter.com/@Dorvaryn'}
+    - {name: 'site', link: 'http://www.novoda.com'}
 - 
   id: 54742
   name: "Romain"

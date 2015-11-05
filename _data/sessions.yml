@@ -169,11 +169,11 @@
   language: en
 -
   id: 19
-  title: "Burning Marshmallows - A Fireside Android Security Model updates"
-  description: "<p>Développement Android<br />It has been decided. Not M, not M&M's, and not even Mars. The new candy in town is the Marshmallow, and with it come new security features such as dynamic permission models and Fingerprinting authentication API's. In this talk we will review how the new additions will improve security for some parties of the Android ecosystem, while laying the foundations for decreasing the security of others. Then, we will recap Android entire security feature suite, focusing on compiler and OS-wide protections and refute some aggressive PR stunts from the last couple of months, discuss the cases where weaknesses may reside and analyze the exploitation probability in a relaxed, and rather informal way (No advanced cryptography degree is required!)</p>"
+  title: "Let's get Functional"
+  description: "<p>Ever tried functional languages? Ever been annoyed that every time you see the same Fibonacci examples or yet another maths problem?<br /><br />So what can functional languages really teach us on our day to day life as Java developers?<br /><br />This talk will focus on what we can learn from functional languages and how to apply those concepts to any language. We will take some concrete examples and see how some functional approaches can make your life easier.<br /><br />So let me take you into a journey towards a more functional Java.</p>"
   subtype: presentation
   speakers: [27801]
-  language: en
+  language: fr
 -
   id: 20
   title: "Testez unitairement votre code, même votre UI !"
