@@ -40,7 +40,7 @@
   id: 302
   title: "Barcamp"
   service: true
-  description: "to be announced on-site."
+  description: "to be announced on-site.<br /><a href='http://droidcon.fr/blog/participez-a-la-droidcon-et-proposez-votre-sujet-aux-barcamps/'>What is a Barcamp??</a>"
 -
   id: 1
   title: "Kotlin on Android"
