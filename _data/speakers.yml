@@ -168,7 +168,7 @@
   bio: "Jeremie est développeur Android depuis plus de 4 ans et travaille en tant que consultant chez Xebia. Passionné par le développement mobile, il est un fervant adepte des bonnes pratiques et des principes du Software Craftsmanship."
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@jeremmartinez'}
-    - {name: 'site', link: 'http://blog.xebia.fr/author/jeremie-martinez/'}
+    - {name: 'site', link: 'http://jeremie-martinez.com/'}
 - 
   id: 656
   name: "Madis"
