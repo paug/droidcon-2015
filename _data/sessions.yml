@@ -173,7 +173,7 @@
   description: "<p>Ever tried functional languages? Ever been annoyed that every time you see the same Fibonacci examples or yet another maths problem?<br /><br />So what can functional languages really teach us on our day to day life as Java developers?<br /><br />This talk will focus on what we can learn from functional languages and how to apply those concepts to any language. We will take some concrete examples and see how some functional approaches can make your life easier.<br /><br />So let me take you into a journey towards a more functional Java.</p>"
   subtype: presentation
   speakers: [27801]
-  language: fr
+  language: en
 -
   id: 20
   title: "Testez unitairement votre code, même votre UI !"
