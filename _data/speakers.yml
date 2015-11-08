@@ -395,3 +395,11 @@
     - {name: 'twitter', link: 'https://twitter.com/@dupuyjs'}
     - {name: 'site', link: 'http://blogs.msdn.com/b/jdupuy'}
 
+- 
+  id: 40615
+  name: "Eric"
+  surname: "Lafortune"
+  rockstar: true
+  thumbnailUrl: eric.jpg
+  company: "GuardSquare"
+  bio: "Eric is the creator of the open-source optimizer and obfuscator ProGuard, and its commercial extension DexGuard. Eric is obsessed with making applications more compact, more efficient, and better protected against attacks. He is the founder and CTO of GuardSquare, where they put this obsession to good use."

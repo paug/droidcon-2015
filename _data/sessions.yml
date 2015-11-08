@@ -26,8 +26,11 @@
   service: true
 -
   id: 201
-  title: "Keynote"
-  service: true
+  title: "Keynote - Evolution inside the build system"
+  description: "<p>The Android build system is evolving and maturing. It choreographs a complex set of tools to transform your code and resources into efficient apps.<br /><br />Earlier this year, Google introduced the experimental Jack and Jill compilers for Android apps. The compilers replace the existing Java and Dex compilers. They still translate Java source code to Dalvik bytecode, so at some level, it may seem like a small change.<br /><br />What are the implications for developers? How can you start using the new compilers? This presentation will provide some insight in the underlying technology, such as the Gradle build process and the new Jayce bytecode representation, which may impact the Android ecosystem more profoundly.</p>"
+  subtype: presentation
+  speakers: [40615]
+  language: en
 -
   id: 202
   title: "Pitch for Barcamp sessions"
