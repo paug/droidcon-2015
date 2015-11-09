@@ -344,3 +344,8 @@
   title: "Cobalt a new hybrid framework open source"
   subtype: barcamp
   speakers: [10016, 10017]
+-
+  id: 417
+  title: "Don't be afraid to handle network loss in your code"
+  subtype: barcamp
+  speakers: [10018, 10019]

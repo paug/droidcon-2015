@@ -496,3 +496,14 @@
   surname: "Vitard"
   thumbnailUrl: unnamed.png
   company: "Cobalt"
+- 
+  id: 10018
+  name: "James"
+  surname: "Nocentini"
+  thumbnailUrl: unnamed.png
+  company: "Couchbase"
+- 
+  id: 10019
+  name: "Geoffrey"
+  surname: "Marizy"
+  thumbnailUrl: unnamed.png
