@@ -394,7 +394,6 @@
   social: 
     - {name: 'twitter', link: 'https://twitter.com/@dupuyjs'}
     - {name: 'site', link: 'http://blogs.msdn.com/b/jdupuy'}
-
 - 
   id: 40615
   name: "Eric"
@@ -403,3 +402,97 @@
   thumbnailUrl: eric.jpg
   company: "GuardSquare"
   bio: "Eric is the creator of the open-source optimizer and obfuscator ProGuard, and its commercial extension DexGuard. Eric is obsessed with making applications more compact, more efficient, and better protected against attacks. He is the founder and CTO of GuardSquare, where they put this obsession to good use."
+
+- 
+  id: 10001
+  name: "Xavier"
+  surname: "Gouchet"
+  thumbnailUrl: unnamed.png
+  company: "Deezer"
+- 
+  id: 10002
+  name: "Florent"
+  surname: "Noël"
+  thumbnailUrl: unnamed.png
+  company: "Genymobile"
+- 
+  id: 10003
+  name: "Antonin"
+  surname: "Fouques"
+  thumbnailUrl: unnamed.png
+  company: "Genymobile"
+- 
+  id: 10004
+  name: "Adrien"
+  surname: "Couque"
+  thumbnailUrl: unnamed.png
+  company: "Applidium"
+- 
+  id: 10005
+  name: "Vadim"
+  surname: "Votiuk"
+  thumbnailUrl: unnamed.png
+  company: "FlixBus"
+- 
+  id: 10006
+  name: "Matthias"
+  surname: "Seguy"
+  thumbnailUrl: unnamed.png
+  company: "Android2ee"
+- 
+  id: 10007
+  name: "Mathieu"
+  surname: "Hausherr"
+  thumbnailUrl: unnamed.png
+  company: "OCTO"
+- 
+  id: 10008
+  name: "Matthew"
+  surname: "Compton"
+  thumbnailUrl: unnamed.png
+  company: "Big Nerd Ranch"
+- 
+  id: 10009
+  name: "Google Developer Experts"
+  thumbnailUrl: unnamed.png
+- 
+  id: 10010
+  name: "Jeroen"
+  surname: "Mols"
+  thumbnailUrl: unnamed.png
+  company: "Icapps"
+- 
+  id: 10011
+  name: "Alex"
+  surname: "Currqn"
+  thumbnailUrl: unnamed.png
+  company: "Novoda"
+- 
+  id: 10012
+  name: "Brison"
+  surname: "Vincent"
+  thumbnailUrl: unnamed.png
+  company: "Applidium"
+- 
+  id: 10013
+  name: "Louis"
+  surname: "Davin"
+  thumbnailUrl: unnamed.png
+  company: "OCTO"
+- 
+  id: 10015
+  name: "Cyril"
+  surname: "Vlaminck"
+  thumbnailUrl: unnamed.png
+- 
+  id: 10016
+  name: "Sebastien"
+  surname: "Famel"
+  thumbnailUrl: unnamed.png
+  company: "Cobalt"
+- 
+  id: 10017
+  name: "Sebastien"
+  surname: "Vitard"
+  thumbnailUrl: unnamed.png
+  company: "Cobalt"

@@ -268,4 +268,79 @@
   subtype: presentation
   speakers: [54657]
   language: en
-
+-
+  id: 401
+  title: "Aspect Oriented Programming : add magic to your code and remove Boilerplate"
+  subtype: barcamp
+  speakers: [10001]
+-
+  id: 402
+  title: "Application testing and Continuous Integration with Genymotion"
+  subtype: barcamp
+  speakers: [10002, 10003]
+-
+  id: 403
+  title: "Advanced Map Techniques"
+  subtype: barcamp
+  speakers: [10004]
+-
+  id: 405
+  title: "How Android ecosystem helped us to grow company 1500% a year"
+  subtype: barcamp
+  speakers: [10005]
+-
+  id: 406
+  title: "Animate me, if you don't do it for me do it for Chet"
+  subtype: barcamp
+  speakers: [10006]
+-
+  id: 407
+  title: "Hybrid apps performance"
+  subtype: barcamp
+  speakers: [10007]
+-
+  id: 408
+  title: "Linty Fresh"
+  subtype: barcamp
+  speakers: [10008]
+-
+  id: 409
+  title: "App Clinic"
+  subtype: barcamp
+  description: "<p>Fill <a href='http://bit.ly/droidconfr-barcamp'>this form</a> to have your app analized by the experts</p>"
+  speakers: [10009]
+-
+  id: 410
+  title: "Distributing to a public or private maven repository"
+  subtype: barcamp
+  speakers: [10010]
+-
+  id: 411
+  title: "writingBetterCode()"
+  subtype: barcamp
+  speakers: [10011]
+-
+  id: 412
+  title: "Ease Software structual quality on Android"
+  subtype: barcamp
+  speakers: [10012]
+-
+  id: 413
+  title: "Android CI in the cloud"
+  subtype: barcamp
+  speakers: [10013]
+-
+  id: 414
+  title: "Cross-Platform avec Visual Studio pour Android"
+  subtype: barcamp
+  speakers: [40048, 45678]
+-
+  id: 415
+  title: "Introduction to Hardware Acceleration"
+  subtype: barcamp
+  speakers: [10015]
+-
+  id: 416
+  title: "Cobalt a new hybrid framework open source"
+  subtype: barcamp
+  speakers: [10016, 10017]
