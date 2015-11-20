@@ -78,7 +78,7 @@
   description: "<p>Développement Android<br />Scrolling is one of the most important gesture on mobile platforms. Indeed, it easily allows users to access a fairly large amount of content just by swiping their fingers on screen. In order to implement such gestures, the Android SDK comes with a bunch of scrolling containers: View, ListView, RecyclerView, ScrollView, etc. While using these components independently is relatively simple it starts getting complicated when nesting them… In this session we will go though a complete overview how Android deals with scrolling in general and how to master the scrolling mechanism to create compelling mobile user experience.</p>"
   subtype: presentation
   speakers: [93192]
-  language: fr
+  language: en
 -
   id: 6
   title: "Advanced techniques for concurrency & memory management"
@@ -321,7 +321,7 @@
   speakers: [10011]
 -
   id: 412
-  title: "Ease Software structual quality on Android"
+  title: "Ease Software structural quality on Android"
   subtype: barcamp
   speakers: [10012]
 -

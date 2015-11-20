@@ -435,7 +435,7 @@
   company: "FlixBus"
 - 
   id: 10006
-  name: "Matthias"
+  name: "Mathias"
   surname: "Seguy"
   thumbnailUrl: unnamed.png
   company: "Android2ee"
@@ -464,7 +464,7 @@
 - 
   id: 10011
   name: "Alex"
-  surname: "Currqn"
+  surname: "Curran"
   thumbnailUrl: unnamed.png
   company: "Novoda"
 - 
@@ -507,3 +507,4 @@
   name: "Geoffrey"
   surname: "Marizy"
   thumbnailUrl: unnamed.png
+  company: "Startuper"
