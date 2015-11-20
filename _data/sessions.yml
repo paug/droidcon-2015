@@ -31,6 +31,8 @@
   subtype: presentation
   speakers: [40615]
   language: en
+  presentation: "https://drive.google.com/file/d/0B1CCib0JzAOJRXZSY0c1ckZTU0E/view?pli=1"
+  video: "https://www.youtube.com/watch?v=uClRGZy4M4c"
 -
   id: 202
   title: "Pitch for Barcamp sessions"
@@ -51,6 +53,8 @@
   subtype: presentation
   speakers: [37805]
   language: en
+  presentation: "https://drive.google.com/open?id=0B1CCib0JzAOJVXdaejZJVHhGaVU"
+  video: "https://www.youtube.com/watch?v=50lASllvG3Q"
 -
   id: 2
   title: "Android Katas"
@@ -58,6 +62,7 @@
   subtype: presentation
   speakers: [92512]
   language: en
+  presentation: "https://speakerdeck.com/colabug/android-katas"
 -
   id: 3
   title: "Level up your Android Build"
@@ -65,6 +70,8 @@
   subtype: presentation
   speakers: [31973, 99221]
   language: en
+  presentation: "https://speakerdeck.com/florianmski/level-up-your-android-build"
+  video: "https://www.youtube.com/watch?v=513e57e7jlo"
 -
   id: 4
   title: "Improve your app metrics in weeks with Play Store Experiments"
@@ -72,6 +79,8 @@
   subtype: presentation
   speakers: [28051]
   language: en
+  presentation: "https://speakerdeck.com/alexisfogel/improve-your-android-app-metrics"
+  video: "https://www.youtube.com/watch?v=58huh0-nLFg"
 -
   id: 5
   title: "Advanced Scrolling Techniques on Android"
@@ -79,6 +88,8 @@
   subtype: presentation
   speakers: [93192]
   language: en
+  presentation: "https://speakerdeck.com/cyrilmottier/advanced-scrolling-techniques-on-android"
+  video: "https://www.youtube.com/watch?v=N3J4ZFiR_3Q"
 -
   id: 6
   title: "Advanced techniques for concurrency & memory management"
@@ -86,6 +97,8 @@
   subtype: presentation
   speakers: [96689]
   language: en
+  presentation: "https://speakerdeck.com/nhachicha/advanced-techniques-for-concurrency-and-memory-management"
+  video: "https://www.youtube.com/watch?v=m8i9omiw9aM"
 -
   id: 7
   title: "Comment développer une app en moins d'1h et en moins de 200 lignes avec Kotlin"
@@ -93,6 +106,8 @@
   subtype: presentation
   speakers: [9191]
   language: fr
+  presentation: "https://drive.google.com/open?id=0B1CCib0JzAOJV2kySFBrcVdqQ3c"
+  video: "https://www.youtube.com/watch?v=J0JQe--ysO0"
 -
   id: 8
   title: "Task & Document API"
@@ -100,6 +115,8 @@
   subtype: presentation
   speakers: [31851]
   language: en
+  presentation: "https://speakerdeck.com/mathieu_calba/task-and-document-api"
+  video: "https://www.youtube.com/watch?v=NTWmxp8dzBs"
 -
   id: 9
   title: "Eddystone™, the open beacon format from Google"
@@ -107,6 +124,8 @@
   subtype: presentation
   speakers: [46632]
   language: en
+  presentation: "https://speakerdeck.com/turhanoz/eddystone-droidcon-paris-2015"
+  video: "https://www.youtube.com/watch?v=HR3X5h9xdno"
 -
   id: 10
   title: "Let's Play! Build your first Cardboard App"
@@ -114,6 +133,7 @@
   subtype: presentation
   speakers: [56760]
   language: en
+  video: "https://www.youtube.com/watch?v=h7K9hzRxBkg"
 -
   id: 11
   title: "Comment j'ai retrouvé un code d'athlète avec Google Fit API"
@@ -121,6 +141,8 @@
   subtype: presentation
   speakers: [3900]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1gHH9f8asKHby9i_Q9RQgRtDrPWU3cDNzX-KdyX7-aAk/edit?usp=sharing"
+  video: "https://www.youtube.com/watch?v=whqaVh_Cbo8"
 -
   id: 12
   title: "Striptease of The Android Permissions System"
@@ -128,6 +150,7 @@
   subtype: presentation
   speakers: [93129, 29788]
   language: en
+  video: "https://www.youtube.com/watch?v=HcjTHyrN8x4"
 -
   id: 13
   title: "Mettre à jour un device Android, ok mais comment ça marche ? Les secrets de l'OTA"
@@ -135,6 +158,8 @@
   subtype: presentation
   speakers: [3632]
   language: fr
+  presentation: "http://fr.slideshare.net/sidereo/ota-mettre-jour-un-device-android-ok-mais-comment-a-marche"
+  video: "https://www.youtube.com/watch?v=ZMsjnPXqQps"
 -
   id: 14
   title: "Gradle plugins: take it to the next level"
@@ -142,6 +167,8 @@
   subtype: presentation
   speakers: [54886]
   language: en
+  presentation: "https://docs.google.com/presentation/d/1ap-lVIj8A8xlfH8GKZTd-GQsKJ3ZmDVMDBeQvrU26r4/edit#slide=id.g6d5798b09_06"
+  video: "https://www.youtube.com/watch?v=QgPrGxDui3c"
 -
   id: 15
   title: "Exploring the possibilities of Unidirectional Data Flow Architectures on Android"
@@ -149,6 +176,8 @@
   subtype: presentation
   speakers: [52002]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1IFfO3BBsQSiVCBw3tSzA83QIp3X9hqCN0upoCWLSdMs/edit#slide=id.gcda2ce1aa_2_0"
+  video: "https://www.youtube.com/watch?v=SsH_rByBbq4"
 -
   id: 16
   title: "Let's sprinkle some #PerfMatters on our ViewGroups"
@@ -156,6 +185,8 @@
   subtype: presentation
   speakers: [62738]
   language: fr
+  presentation: "https://speakerdeck.com/francois_blavoet/lets-sprinkle-some-number-perfmatters-on-your-viewgroups-droidcon-paris-2015"
+  video: "https://www.youtube.com/watch?v=MSTG0JPOrYk"
 -
   id: 17
   title: "Dagger 2 - Back to basics"
@@ -163,6 +194,8 @@
   subtype: presentation
   speakers: [7237]
   language: fr
+  presentation: "https://speakerdeck.com/jeremiemartinez/dagger-2-back-to-basics"
+  video: "https://www.youtube.com/watch?v=IkTST564lA4"
 -
   id: 18
   title: "Squeezing the last drop of performance out of your Gradle builds"
@@ -170,6 +203,7 @@
   subtype: presentation
   speakers: [656]
   language: en
+  video: "https://www.youtube.com/watch?v=AbNhen_zn-c"
 -
   id: 19
   title: "Let's get Functional"
@@ -177,6 +211,8 @@
   subtype: presentation
   speakers: [27801]
   language: en
+  presentation: "https://speakerdeck.com/dorvaryn/lets-get-functional"
+  video: "https://www.youtube.com/watch?v=bjsDuhrp7Hs"
 -
   id: 20
   title: "Testez unitairement votre code, même votre UI !"
@@ -184,6 +220,8 @@
   subtype: presentation
   speakers: [1690]
   language: fr
+  presentation: "https://speakerdeck.com/stankocken/unit-test-your-code-even-your-ui"
+  video: "https://www.youtube.com/watch?v=05EYkO9kmLg"
 -
   id: 21
   title: "Ingredients for a healthy codebase"
@@ -191,13 +229,17 @@
   subtype: presentation
   speakers: [54742]
   language: en
+  presentation: "https://speakerdeck.com/romainpiel/ingredients-for-a-healthy-codebase"
+  video: "https://www.youtube.com/watch?v=-oZswd1j5H0"
 -
   id: 22
   title: "Pourquoi la batterie de mon smartphone se vide en une journée ? voir moins :-/"
-  description: "<p>Développement Android<br />Vous avez surement déjà entendu parler des projets <i>Volta</i> ou <i>Doze</i> qui visent à améliorer l'<b>autonomie</b> des smartphones Android. La batterie est un composant primordial de votre téléphone. Venez découvrir comment l'énergie qu'elle stocke est consommée et quels sont les pièges à éviter afin de ne pas la gaspiller grâce à <b>ARO</b> et <b>Battery Historian</b>. Au programme : un peu de physique, du code, et des mesures.</p>"
+  description: "<p>Développement Android<br />Vous avez surement déjà entendu parler des projets <i>Volta</i> ou <i>Doze</i> qui visent à améliorer l'<b>autonomie</b> des smartphones Android. La batterie est un composant primordial de votre téléphone. Venez découvrir comment l'énergie qu'elle stocke est consommée et quels sont les pièges à éviter afin de ne pas la gaspiller grâce à <b>ARO</b> et <b>Battery Historian</b>. Au programme : un peu de physique, du code, et des mesures.<br />Retrouver les animations <a href='https://drive.google.com/folderview?id=0B9Tkzwwr5xI5dHVodHRQeHFoRTA'>ici</a></p>"
   subtype: presentation
   speakers: [60848]
   language: fr
+  presentation: "https://speakerdeck.com/pcrepieux/pourquoi-la-batterie-de-mon-smartphone-se-vide-en-une-journee-voir-moins"
+  video: "https://www.youtube.com/watch?v=vGG0dBUeeOs"
 -
   id: 23
   title: "What To Do About Fragments?"
@@ -205,6 +247,7 @@
   subtype: presentation
   speakers: [45915]
   language: en
+  video: "https://www.youtube.com/watch?v=AyJ1sXoxnDo"
 -
   id: 24
   title: "Le Data Binding sur Android"
@@ -212,6 +255,8 @@
   subtype: presentation
   speakers: [55337]
   language: fr
+  presentation: "https://drive.google.com/open?id=0B1CCib0JzAOJbGMwbXZ0V2M2dmc"
+  video: "https://www.youtube.com/watch?v=fG_93vUfm5s"
 -
   id: 25
   title: "Performance Matter"
@@ -219,6 +264,7 @@
   subtype: presentation
   speakers: [46332]
   language: en
+  video: "https://www.youtube.com/watch?v=04igNM9IpwE"
 -
   id: 26
   title: "Comment tester (vraiment) une application Android"
@@ -226,6 +272,8 @@
   subtype: presentation
   speakers: [42098, 58340]
   language: fr
+  presentation: "https://drive.google.com/open?id=0B1ziPeOTo6HGTkZ0SHk5eGQwT0k"
+  video: "https://www.youtube.com/watch?v=o5yTR2W3ufQ"
 -
   id: 27
   title: "From Nice To Astonishing"
@@ -233,6 +281,7 @@
   subtype: presentation
   speakers: [86297]
   language: fr
+  presentation: "http://fr.slideshare.net/aerilys/from-nice-to-astonishing"
 -
   id: 28
   title: "Android Auto : Rolling Droid gather no moss"
@@ -240,6 +289,8 @@
   subtype: presentation
   speakers: [24812]
   language: en
+  presentation: "http://fr.slideshare.net/cavailld/android-auto-talk-at-droidconfr"
+  video: "https://www.youtube.com/watch?v=0Rz_rnc8aOw"
 -
   id: 29
   title: "Archos Fusion Storage: a flexible and innovative mean to extend your Android products storage"
@@ -247,6 +298,7 @@
   subtype: presentation
   speakers: [89927]
   language: en
+  video: "https://www.youtube.com/watch?v=G25_fg7cyxY"
 -
   id: 30
   title: "Microsoft, c'est aussi des services pour vos Apps Android (si, si!)"
@@ -254,6 +306,7 @@
   subtype: presentation
   speakers: [40048, 45678]
   language: fr
+  video: "https://www.youtube.com/watch?v=_0UYbdYImno"
 -
   id: 31
   title: "The Android NDK and its new support in Android Studio/gradle-experimental plugin"
@@ -261,6 +314,8 @@
   subtype: presentation
   speakers: [22378]
   language: en
+  presentation: "http://fr.slideshare.net/ph0b/mastering-the-ndk-with-android-studio-and-the-gradleexperimental-plugin"
+  video: "https://www.youtube.com/watch?v=jzNdur_FYCE"
 -
   id: 32
   title: "Keynote: The Sharing Economy made Amazing by Android"
@@ -268,41 +323,54 @@
   subtype: presentation
   speakers: [54657]
   language: en
+  presentation: "https://speakerdeck.com/mscheel/droidcon-paris-keynote-android-and-airbnb-together"
+  video: "https://www.youtube.com/watch?v=XOt39glL_aU"
 -
   id: 401
   title: "Aspect Oriented Programming : add magic to your code and remove Boilerplate"
   subtype: barcamp
   speakers: [10001]
+  presentation: "https://speakerdeck.com/xgouchet/aspect-oriented-programming-droidcon-paris-2015-barcamp"
+  video: "https://www.youtube.com/watch?v=s8hGWgTaDZU"
 -
   id: 402
   title: "Application testing and Continuous Integration with Genymotion"
   subtype: barcamp
   speakers: [10002, 10003]
+  presentation: "https://docs.google.com/presentation/d/1sKkyv5Q4ZyLV2UBXHXOJjM5EIBoxlV59KbTP90ufD2U/edit#slide=id.p"
+  video: "https://www.youtube.com/watch?v=ixiYGtHuNxg"
 -
   id: 403
   title: "Advanced Map Techniques"
   subtype: barcamp
   speakers: [10004]
+  presentation: "https://speakerdeck.com/acq/advanced-maps-techniques"
+  video: "https://www.youtube.com/watch?v=zWB63VWUe4c"
 -
   id: 405
   title: "How Android ecosystem helped us to grow company 1500% a year"
   subtype: barcamp
   speakers: [10005]
+  video: "https://www.youtube.com/watch?v=5nEd6HWu7Wk"
 -
   id: 406
   title: "Animate me, if you don't do it for me do it for Chet"
   subtype: barcamp
   speakers: [10006]
+  presentation: "http://fr.slideshare.net/Android2EE/animate-me-if-you-dont-do-it-for-me-do-it-for-chet-droidcon-paris"
+  video: "https://www.youtube.com/watch?v=i63GRUu6dp0"
 -
   id: 407
   title: "Hybrid apps performance"
   subtype: barcamp
   speakers: [10007]
+  video: "https://www.youtube.com/watch?v=PW0TvPa6ew4"
 -
   id: 408
   title: "Linty Fresh"
   subtype: barcamp
   speakers: [10008]
+  presentation: "https://speakerdeck.com/ambergleam/linty-fresh"
 -
   id: 409
   title: "App Clinic"
@@ -314,38 +382,53 @@
   title: "Distributing to a public or private maven repository"
   subtype: barcamp
   speakers: [10010]
+  presentation: "https://speakerdeck.com/jeroenmols/distributing-to-a-public-or-private-maven-repository"
+  video: "https://www.youtube.com/watch?v=chlEInu88vw"
 -
   id: 411
   title: "writingBetterCode()"
   subtype: barcamp
   speakers: [10011]
+  presentation: "https://drive.google.com/open?id=0B80ykRbfmxQHNjNpRWE4eTRKeE0"
+  video: "https://www.youtube.com/watch?v=hYlz48mRJg0"
 -
   id: 412
   title: "Ease Software structural quality on Android"
   subtype: barcamp
   speakers: [10012]
+  presentation: "https://drive.google.com/open?id=0B80ykRbfmxQHbXpWRzRwWDl0aEU"
+  video: "https://www.youtube.com/watch?v=hStcOnC4M7c"
 -
   id: 413
   title: "Android CI in the cloud"
   subtype: barcamp
   speakers: [10013]
+  presentation: "https://drive.google.com/open?id=0B80ykRbfmxQHN3dJOXV4MVQzdW8"
+  video: "https://www.youtube.com/watch?v=R37u6SuIwhU"
 -
   id: 414
   title: "Cross-Platform avec Visual Studio pour Android"
   subtype: barcamp
   speakers: [40048, 45678]
+  presentation: "https://drive.google.com/open?id=0B80ykRbfmxQHQ1dwN0JHMi1xWEU"
+  video: "https://www.youtube.com/watch?v=HdLgaSPid9E"
 -
   id: 415
   title: "Introduction to Hardware Acceleration"
   subtype: barcamp
   speakers: [10015]
+  presentation: "https://docs.google.com/presentation/d/1T8DaV6fkaKnW-yEif2YpOCBpebfxst3qVx38kRx3b68/edit#slide=id.p"
+  video: "https://www.youtube.com/watch?v=zVonlpz59jw"
 -
   id: 416
   title: "Cobalt a new hybrid framework open source"
   subtype: barcamp
   speakers: [10016, 10017]
+  presentation: "https://drive.google.com/open?id=0B80ykRbfmxQHb1N0ZWN3UTFyZzQ"
+  video: "https://www.youtube.com/watch?v=3nQzZmE01Fg"
 -
   id: 417
   title: "Don't be afraid to handle network loss in your code"
   subtype: barcamp
   speakers: [10018, 10019]
+  video: "https://www.youtube.com/watch?v=F290RlsKpUk"
