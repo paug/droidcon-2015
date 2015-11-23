@@ -133,6 +133,7 @@
   subtype: presentation
   speakers: [56760]
   language: en
+  presentation: "https://drive.google.com/file/d/0B7fEiQkvHybLSE9yY29pQkl1a2c/view"
   video: "//www.youtube.com/embed/h7K9hzRxBkg"
 -
   id: 11
@@ -150,6 +151,7 @@
   subtype: presentation
   speakers: [93129, 29788]
   language: en
+  presentation: "https://docs.google.com/presentation/d/16eFfbA1anjb7jzMB5fe7icMfwATSCrJ9IQOzn3KcB8o/edit?usp=sharing"
   video: "//www.youtube.com/embed/HcjTHyrN8x4"
 -
   id: 13
@@ -203,6 +205,7 @@
   subtype: presentation
   speakers: [656]
   language: en
+  presentation: "https://speakerdeck.com/madisp/squeezing-the-last-drop-of-performance-out-of-your-gradle-builds-droidcon-paris-2015"
   video: "//www.youtube.com/embed/AbNhen_zn-c"
 -
   id: 19
@@ -247,6 +250,7 @@
   subtype: presentation
   speakers: [45915]
   language: en
+  presentation: "https://drive.google.com/open?id=0B1CCib0JzAOJY08xNWtmV3BIX28"
   video: "//www.youtube.com/embed/AyJ1sXoxnDo"
 -
   id: 24
@@ -298,6 +302,7 @@
   subtype: presentation
   speakers: [89927]
   language: en
+  presentation: "https://drive.google.com/open?id=0B1ziPeOTo6HGWmY4M3F4QVJlUTA"
   video: "//www.youtube.com/embed/G25_fg7cyxY"
 -
   id: 30
