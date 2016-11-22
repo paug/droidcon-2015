@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "mailto:contact@droidcon.fr", text: "Become a sponsor"}
+ - {link: "http://androidmakers.fr", text: "Join the 2017 edition"}
 rightNavigationButtons:
- - {link: "mailto:contact@droidcon.fr", text: "Become a sponsor"}
+ - {link: "http://androidmakers.fr", text: "Join the 2017 edition"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -62,8 +62,7 @@ eventDate: "9-10 November, 2015"
 typeoutTextValues: '"", "France", "Paris", "Android"'
 typeoutFallback: "Paris"
 heroButtons:
- - {link: "#register", text: "Register now"}
- - {link: "mailto:contact@droidcon.fr", text: "Become a sponsor"}
+ - {link: "http://androidmakers.fr", text: "Join the 2017 edition"}
 # About Block
 aboutTitle: "About Droidcon Paris"
 aboutBlock:
