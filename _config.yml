@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Droidcon Paris 2015"
 email: "contact@droidcon.fr"
-description: "Droidcon Paris, the biggest Android event in France"
+description: "Retrieve the edition 2017 of the biggest Android event in France on androidmakers.fr"
 baseurl: ""
 url: "http://droidcon.fr"
 permalink: "/blog/:title"
